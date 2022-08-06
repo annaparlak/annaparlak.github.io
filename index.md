@@ -10,6 +10,11 @@ You can get in contact with me via abparlak@ucdavis.edu.
 
 [My departmental profile](https://www.math.ucdavis.edu/people/general-profile?fac_id=aparlak)
 
+&nbsp;
+
+
+Before coming to UC Davis I was a Postdoctoral Research Associate at the University of Oxford (2021 - 2022), a PhD student at the University of Warwick (2017 - 2021), and a MSc (2015 - 2017) and a BSc (2012 - 2015) student at the University of Gdańsk. 
+
 ### Research interests
 
 * low-dimensional topology
