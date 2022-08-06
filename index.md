@@ -1,4 +1,6 @@
-# Anna Parlak
+---
+title: Anna Parlak
+---
 
 I am a Krener Assistant Professor at University of California Davis.
 
