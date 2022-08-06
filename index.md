@@ -9,6 +9,7 @@ I am a Krener Assistant Professor at University of California Davis.
 You can get in contact with me via abparlak@ucdavis.edu.
 
 [My departmental profile](https://www.math.ucdavis.edu/people/general-profile?fac_id=aparlak)
+[My CV] (https://github.com/annaparlak/annaparlak.github.io/blob/main/files/Parlak_CV_2022_AmE.pdf)
 
 &nbsp;
 
