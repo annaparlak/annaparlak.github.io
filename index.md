@@ -4,7 +4,7 @@ title:
 
 ## Anna Parlak
 
-I am a Krener Assistant Professor at University of California Davis.
+I am a Krener Assistant Professor at the University of California Davis. I work in __low-dimensional topology__ (more details below).
 
 You can get in contact with me via abparlak@ucdavis.edu.
 
@@ -15,7 +15,7 @@ You can get in contact with me via abparlak@ucdavis.edu.
 &nbsp;
 
 
-Before coming to UC Davis I was a Postdoctoral Research Associate at the University of Oxford (2021 - 2022), a PhD student at the University of Warwick (2017 - 2021), and a MSc (2015 - 2017) and a BSc (2012 - 2015) student at the University of Gdańsk. 
+Before coming to UC Davis I was a Postdoctoral Research Associate at the University of Oxford (2021 - 2022), a PhD student at the University of Warwick (2017 - 2021), and a MSc (2015 - 2017) and a BSc (2012 - 2015) student at the University of Gdańsk. I also have a BSc in biotechnology.
 
 ### Research interests
 
