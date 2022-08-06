@@ -36,6 +36,9 @@ You can get in contact with me via abparlak@ucdavis.edu.
  
     [Period Math Hung (2017) Vol. 75, Issue 2, pp. 413 – 419](https://link.springer.com/article/10.1007/s10998-017-0210-3), [arXiv:1601.06096](https://arxiv.org/abs/1601.06096v2)
 
+### Projects
+
+[Veering](https://github.com/henryseg/Veering) (with Saul Schleimer and Henry Segerman), code for studying taut and veering ideal triangulations
 
 
 <!--- 
