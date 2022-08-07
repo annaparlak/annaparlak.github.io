@@ -51,6 +51,8 @@ Before coming to UC Davis I was a Postdoctoral Research Associate at the Univers
 
 ### Software
 
-[Veering](https://github.com/henryseg/Veering) (with Saul Schleimer and Henry Segerman), code for studying taut and veering ideal triangulations
+[Veering](https://github.com/henryseg/Veering) (with Saul Schleimer and Henry Segerman)
+
+code for studying taut and veering ideal triangulations
 
 
