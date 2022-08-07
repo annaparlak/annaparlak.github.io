@@ -16,8 +16,6 @@ Moreover, there are many computer programs available to study 3-manifolds using 
 
 code for studying taut and veering ideal triangulations
 
-&nbsp;
-
 
 ### Papers and preprints
 
