@@ -1,4 +1,4 @@
-### Research description STYLELELELELE
+### Research description
 My research focuses on __3-dimensional manifolds__; these are spaces which locally look like the standard three-dimensional Euclidean space (or half-space) but globally can be much more complicated. A common strategy is to try to equip them with various additional structures, such as metrics, decompositions into polyhedra (in particular triangulations), decompositions into lower-dimensional subsets (foliations), or group actions, which allow one to study the manifold from various different perspectives.
 {: style="text-align: justify"}
 
