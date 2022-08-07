@@ -4,9 +4,11 @@ title:
 
 ## Anna Parlak
 
-I am a Krener Assistant Professor at the University of California Davis. I study __low-dimensional manifolds__.
+I am a Krener Assistant Professor at the University of California Davis. 
 
-You can get in contact with me via abparlak@ucdavis.edu.
+My research revolves around __low-dimensional manifolds__.
+
+You can get in contact with me via ![email](files/20B57BDE-B485-4812-A296-BD844F43BA4B_4_5005_c.jpeg)
 
 [My departmental profile](https://www.math.ucdavis.edu/people/general-profile?fac_id=aparlak)
 
