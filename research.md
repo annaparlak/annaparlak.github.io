@@ -1,10 +1,21 @@
-### Research interests
+My research focuses on __3-dimensional manifolds__; these are spaces which locally look like the standard three-dimensional Euclidean space (or half-space) but globally can be much more complicated. A common strategy is to try to equip them with various additional structures, such as metrics, decompositions into polyhedra (in particular triangulations), decompositions into lower-dimensional subsets (foliations), or group actions, which allow one to study the manifold from various different perspectives.
 
-* low-dimensional topology
-* polynomial invariants of 3-manifolds 
-* pseudo-Anosov flows
-* veering triangulations
-* mapping class groups
+Aspects of 3-dimensional topology which are central in my work are __fibrations over the circle__ with __pseudo-Anosov monodromy__ and, more generally, __pseudo-Anosov flows__. I study them combinatorially using __veering triangulations__, certain ideal triangulations of the complement of finitely many closed orbits of the flow.
+
+The main advantage of using veering triangulations to study pseudo-Anosov flows is that they are combinatorial objects with a very rigid structure. This often simplifies proofs of theorems relating pseudo-Anosov flows to other structures in 3-dimensional topology. See for instance the [relation between the Teichmüller polynomials and certain twisted Alexander polynomials](https://arxiv.org/abs/2101.12162v2).
+
+Moreover, there are many computer programs available to study 3-manifolds using their triangulations (eg. [SnapPy](https://snappy.math.uic.edu/), [Regina](https://regina-normal.github.io/) etc.) that can now be used to study pseudo-Anosov flows experimentally. They were used to build the [Veering Census](https://math.okstate.edu/people/segerman/veering.html) containing data on all veering triangulations consisting of up to 16 tetrahedra. Some code in the [Veering GitHub](https://github.com/henryseg/Veering) also relies on SnapPy and/or Regina.
+
+&nbsp;
+
+### Software
+
+[Veering](https://github.com/henryseg/Veering) (with Saul Schleimer and Henry Segerman)
+
+code for studying taut and veering ideal triangulations
+
+&nbsp;
+
 
 ### Papers and preprints
 
@@ -24,8 +35,3 @@
  
     [Period Math Hung (2017) Vol. 75, Issue 2, pp. 413 – 419](https://link.springer.com/article/10.1007/s10998-017-0210-3), [arXiv:1601.06096](https://arxiv.org/abs/1601.06096v2)
 
-### Software
-
-[Veering](https://github.com/henryseg/Veering) (with Saul Schleimer and Henry Segerman)
-
-code for studying taut and veering ideal triangulations
