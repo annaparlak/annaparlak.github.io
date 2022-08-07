@@ -3,6 +3,16 @@
 - title: Home
   url: /
 
+- title: Research
+  url: /research
+  
+- title: Talks
+  url: /talks
+
+- title: Teaching
+  url: /teaching
+
+<!--
 - title: Group of Things
   url: /group/
   sublinks:
@@ -12,3 +22,4 @@
       url: /group/si2
     - title: Sub-item 3
       url: /group/si3
+-->
