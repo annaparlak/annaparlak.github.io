@@ -2,9 +2,9 @@
 title: 
 ---
 
-## Anna Parlak 20 0 margin
+## Anna Parlak 0 20 margin
 
-<img align="right" style="width: 20vw; margin: 20px 00px" src="files/website-photo-2018.jpg">
+<img align="right" style="width: 20vw; margin: 0px 20px" src="files/website-photo-2018.jpg">
 
 I am a Krener Assistant Professor at the University of California Davis. 
 
