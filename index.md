@@ -1,7 +1,3 @@
----
-title: 
----
-
 ## Anna Parlak
 
 <img align="right" style="width: 20vw; margin: 0px 20px" src="files/website-photo-2018.jpg">
