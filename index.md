@@ -4,7 +4,7 @@ title:
 
 ## Anna Parlak
 
-<img align="right" style="width: 20vw;" src="files/website-photo-2018.jpg">
+<img align="right" style="width: 20vw; margin: 50px 50px" src="files/website-photo-2018.jpg">
 
 I am a Krener Assistant Professor at the University of California Davis. 
 
