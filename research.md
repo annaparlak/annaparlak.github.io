@@ -1,10 +1,26 @@
-### Research interests
+<style>
+ul.a {
+  list-style-type: circle;
+}
+</style>
 
+### Research interests
+  
+<ul class="a">
+  <li>low-dimensional topology</li>
+  <li>polynomial invariants of 3-manifolds</li>
+  <li>pseudo-Anosov flows</li>
+  <li>veering triangulations</li>
+  <li>mapping class groups</li>
+</ul>
+
+<!--
 * low-dimensional topology
 * polynomial invariants of 3-manifolds 
 * pseudo-Anosov flows
 * veering triangulations
 * mapping class groups
+-->
 
 ### Research description
 My research focuses on __3-dimensional manifolds__; these are spaces which locally look like the standard three-dimensional Euclidean space (or half-space) but globally can be much more complicated. A common strategy is to try to equip them with various additional structures, such as metrics, decompositions into polyhedra (in particular triangulations), decompositions into lower-dimensional subsets (foliations), or group actions, which allow one to study the manifold from various different perspectives.
