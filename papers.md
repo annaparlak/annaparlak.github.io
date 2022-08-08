@@ -1,6 +1,13 @@
 ---
 title: Papers
 ---
+<script>
+// When the user clicks on div, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
 
 
 ## Papers and preprints
@@ -8,6 +15,9 @@ title: Papers
 1. _The taut polynomial and the Alexander polynomial_
  
     [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v3)
+    <div class="popup" onclick="myFunction()">Pop-Up Abstract
+     <span class="popuptext" id="myPopup">A Simple Popup!</span>
+    </div>
 
 2. _Computation of the taut, the veering and the Teichmüller polynomials_
 
