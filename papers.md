@@ -1,9 +1,13 @@
+---
+title: Papers
+---
+
 
 ### Papers and preprints
 
 1. _The taut polynomial and the Alexander polynomial_
  
-    [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v2)
+    [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v3)
 
 2. _Computation of the taut, the veering and the Teichmüller polynomials_
 
