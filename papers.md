@@ -16,6 +16,14 @@
 4. _Roots of crosscap slides and crosscap transpositions_ (with Michał Stukow)
  
     [Period Math Hung (2017) Vol. 75, Issue 2, pp. 413 – 419](https://link.springer.com/article/10.1007/s10998-017-0210-3), [arXiv:1601.06096](https://arxiv.org/abs/1601.06096v2)
+    
+### Theses
+
+[Veering triangulations and polynomial invariants of three-manifolds](http://wrap.warwick.ac.uk/162096/), PhD Thesis, University of Warwick, 2021.
+
+
+[Pierwiastki w grupie klas odwzorowań powierzchni nieorientowalnej](files/Parlak_mgr.pdf), MSc thesis, Uniwersytet Gdański, 2017.
+
 
 ### Software
 
