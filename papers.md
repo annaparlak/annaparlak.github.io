@@ -12,12 +12,23 @@ function myFunction() {
 
 ## Papers and preprints
 
-1. _The taut polynomial and the Alexander polynomial_
+1. _The taut polynomial and the Alexander polynomial_ <div class="popup" onclick="myFunction()"> (Click to pop-up the abstract)
+     <span class="popuptext" id="myPopup">Landry, Minsky and Taylor defined the taut polynomial of a veering
+triangulation. Its specialisations generalise the Teichm¨uller polynomial of a fibred
+face of the Thurston norm ball. We prove that the taut polynomial of a veering
+triangulation is equal to a certain twisted Alexander polynomial of the underlying
+manifold. Then we give formulas relating the taut polynomial and the untwisted
+Alexander polynomial. There are two formulas; one holds when the maximal free
+abelian cover of a veering triangulation is edge-orientable, another holds when it is
+not edge-orientable.
+Furthermore, we consider 3-manifolds obtained by Dehn filling a veering triangulation. In this case we give a formula that relates the specialisation of the taut
+polynomial under the Dehn filling and the Alexander polynomial of the Dehn-filled
+manifold. This extends a theorem of McMullen connecting the Teichm¨uller polynomial and the Alexander polynomial to the nonfibred setting, and improves it in the
+fibred case. We also prove a sufficient and necessary condition for the existence of
+an orientable fibred class in the cone over a fibred face of the Thurston norm ball.</span>
+    </div>
  
     [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v3)
-    <div class="popup" onclick="myFunction()">Pop-Up Abstract
-     <span class="popuptext" id="myPopup">A Simple Popup!</span>
-    </div>
 
 2. _Computation of the taut, the veering and the Teichmüller polynomials_
 
