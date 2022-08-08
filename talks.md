@@ -4,17 +4,19 @@ title: Talks
 
 # Talks
 
-* [AMS -  EMS - SMF International Meeting](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10&paramAcces=&idUser=&emailUser=&acces=&paramToken=&paramSearch10-0=&paramCategory10-0=26+-+Combinatorial+and+Computational+Aspects+in+Topology), Grenoble, July 2022.
+* [AMS -  EMS - SMF International Meeting](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10&paramAcces=&idUser=&emailUser=&acces=&paramToken=&paramSearch10-0=&paramCategory10-0=26+-+Combinatorial+and+Computational+Aspects+in+Topology), Grenoble, July 2022. [[slides]](files/Teich_via_Fox.pdf)
 
 * [Geometry and Topology Seminar](https://www.bristolmathsresearch.org/seminar/tba-35/), University of Bristol, May 2022.
 
 * [Junior Topology and Group Theory Seminar](https://www.maths.ox.ac.uk/node/60337), University of Oxford, May 2022.
 
+* [Mapping class group and Out(F_n)](https://indico.math.cnrs.fr/event/6575/), Institut Henri Poincaré, April 2022. [[Lightning talk - slides]](files/aboutVeeringGitHub.pdf)
+
 * [Geometry and Topology Seminar](https://math.wustl.edu/events/geometry-and-topology-seminar-tba-0), Washington University in St. Louis, March 2022.
 
 * [North Meets South Colloquium](https://www.maths.ox.ac.uk/node/39897), University of Oxford, November 2021.
 
-* Nearly Carbon Neutral Geometric Topology Conference, June 2021. [Part 1](https://www.youtube.com/watch?v=GP6hWM8OPmc), [Part 2](https://www.youtube.com/watch?v=XLFWPPNrpiA)
+* Nearly Carbon Neutral Geometric Topology Conference, June 2021. [[Part 1]](https://www.youtube.com/watch?v=GP6hWM8OPmc), [[Part 2]](https://www.youtube.com/watch?v=XLFWPPNrpiA)
 
 * [Topology and Geometric Group Theory Seminar](http://pi.math.cornell.edu/m/node/10595), Cornell University, April 2021.
 
