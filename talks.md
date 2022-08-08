@@ -2,7 +2,7 @@
 title: Talks
 ---
 
-# Talks
+## Talks
 
 * [AMS -  EMS - SMF International Meeting](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10&paramAcces=&idUser=&emailUser=&acces=&paramToken=&paramSearch10-0=&paramCategory10-0=26+-+Combinatorial+and+Computational+Aspects+in+Topology), Grenoble, July 2022. [[slides]](files/Teich_via_Fox.pdf)
 
@@ -10,7 +10,7 @@ title: Talks
 
 * [Junior Topology and Group Theory Seminar](https://www.maths.ox.ac.uk/node/60337), University of Oxford, May 2022.
 
-* [Mapping class group and Out(F_n)](https://indico.math.cnrs.fr/event/6575/), Institut Henri Poincaré, April 2022. [[Lightning talk - slides]](files/aboutVeeringGitHub.pdf)
+* [Mapping class group and Out(F<sub>n</sub>)](https://indico.math.cnrs.fr/event/6575/), Institut Henri Poincaré, April 2022. [[Lightning talk - slides]](files/aboutVeeringGitHub.pdf)
 
 * [Geometry and Topology Seminar](https://math.wustl.edu/events/geometry-and-topology-seminar-tba-0), Washington University in St. Louis, March 2022.
 
