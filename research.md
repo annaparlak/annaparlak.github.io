@@ -23,13 +23,13 @@ The main advantage of using veering triangulations to study pseudo-Anosov flows 
 Moreover, there are many computer programs available to study 3-manifolds using their triangulations ([SnapPy](https://snappy.math.uic.edu/), [Regina](https://regina-normal.github.io/) etc.) that were used to build a database of veering triangulations and write code to study these triangulations. In other words, passing from pseudo-Anosov flows to veering triangulations allows one to study flows experimentally.
 {: style="text-align: justify"}
 
-      [Veering Census](https://math.okstate.edu/people/segerman/veering.html) (Saul Schleimer, Henry Segerman)
+   * [Veering Census](https://math.okstate.edu/people/segerman/veering.html) (Saul Schleimer, Henry Segerman)
+     
+     contains data on all veering triangulations consisting of up to 16 tetrahedra
 
-      contains data on all veering triangulations consisting of up to 16 tetrahedra
+   * [Veering GitHub](https://github.com/henryseg/Veering) (with Saul Schleimer and Henry Segerman)
 
-      [Veering GitHub](https://github.com/henryseg/Veering) (with Saul Schleimer and Henry Segerman)
-
-      code for studying taut and veering ideal triangulations
+     code for studying taut and veering ideal triangulations
 
 
 
