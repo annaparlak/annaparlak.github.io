@@ -13,7 +13,7 @@
     {% include head-custom.html %}
   
   <style>
-  ul {
+  nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -21,16 +21,16 @@
     background-color: #333;
   }
 
-  li {
+  nav li {
     float: left;
     border-right:1px solid #bbb;
   }
 
-  li:last-child {
+  nav li:last-child {
     border-right: none;
   }
 
-  li a {
+  nav li a {
     display: block;
     color: white;
     text-align: center;
@@ -38,7 +38,7 @@
     text-decoration: none;
   }
 
-  li a:hover:not(.active) {
+  nav li a:hover:not(.active) {
     background-color: #111;
   }
 
@@ -49,13 +49,15 @@
   </head>
 
   <body>
-    <ul>
-      <li><a class="active" href="/">Home</a></li>
-      <li><a href="/research">Research</a></li>
-      <li><a href="/papers">Papers</a></li>
-      <li><a href="/talks">Talks</a></li>
-      <li><a href="/teaching">Teaching</a></li>
-    </ul>
+    <nav>
+      <ul>
+        <li><a class="active" href="/">Home</a></li>
+        <li><a href="/research">Research</a></li>
+        <li><a href="/papers">Papers</a></li>
+        <li><a href="/talks">Talks</a></li>
+        <li><a href="/teaching">Teaching</a></li>
+      </ul>
+    </nav>
     
     <!-- not needed anymore
     <nav class="horizontal-menu">
