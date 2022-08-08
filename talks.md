@@ -1,3 +1,7 @@
+---
+title: Talks
+---
+
 # Talks
 
 * [AMS -  EMS - SMF International Meeting](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10&paramAcces=&idUser=&emailUser=&acces=&paramToken=&paramSearch10-0=&paramCategory10-0=26+-+Combinatorial+and+Computational+Aspects+in+Topology), Grenoble, July 2022.
@@ -10,7 +14,7 @@
 
 * [North Meets South Colloquium](https://www.maths.ox.ac.uk/node/39897), University of Oxford, November 2021.
 
-* Nearly Carbon Neutral Geometric Topology Conference, June 2021. [Part 1](https://www.youtube.com/watch?v=GP6hWM8OPmc) [Part 2](https://www.youtube.com/watch?v=XLFWPPNrpiA)
+* Nearly Carbon Neutral Geometric Topology Conference, June 2021. [Part 1](https://www.youtube.com/watch?v=GP6hWM8OPmc), [Part 2](https://www.youtube.com/watch?v=XLFWPPNrpiA)
 
 * [Topology and Geometric Group Theory Seminar](http://pi.math.cornell.edu/m/node/10595), Cornell University, April 2021.
 
