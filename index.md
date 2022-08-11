@@ -1,6 +1,6 @@
 ## Anna Parlak
 
-<img align="right" style="width: 20vw; margin: 0px 20px" src="files/website-photo-2018.jpg">
+<img align="right" style="width: 20vw; margin: 0px 20px" src="files/IMG_1077.jpeg">
 
 I am a Krener Assistant Professor at the University of California Davis. 
 
