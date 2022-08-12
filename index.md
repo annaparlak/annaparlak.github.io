@@ -2,7 +2,7 @@
 
 <img align="right" style="width: 20vw; margin: 0px 20px" src="files/IMG_1078.jpeg">
 
-I am a Krener Assistant Professor at the Department of Mathematics of the University of California Davis. 
+I am a Krener Assistant Professor at the Department of Mathematics of the University of California in Davis. 
 
 My research revolves around __low-dimensional manifolds__.
 
