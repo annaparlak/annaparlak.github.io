@@ -1,5 +1,11 @@
 ## Teaching
 
+__2022/2023:__
+
+(UC Davis) Instructor for __Calculus A__ (2 classes in the fall, 1 class in the spring)
+
+(UC Davis) Instructor for __Calculus B__ (1 class in the spring)
+
 __2020/2021:__
 
 (Warwick) Teaching assistant for __Analysis I__ 
