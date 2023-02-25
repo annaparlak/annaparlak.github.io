@@ -4,6 +4,10 @@ title: Papers
 
 ## Papers and preprints
 
+0. _Mutations and faces of the Thurston norm ball dynamically represented by multiple distinct flows_
+
+    In preparation (will be available in March 2023)
+
 1. _The taut polynomial and the Alexander polynomial_ 
  
     [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v3)
