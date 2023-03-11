@@ -1,0 +1,261 @@
+iLLLPQccdgefhhghhrhajsvss_02221000 iLLLPQccdgefhhghqrqqssvof_02221000
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+iLLLQPcbeefeghhhhhhqhqxxa_01110221 iLLLQPcbeefeghhhhhhqhqxxa_21112001
+(0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1)((1, 2), [2, 2])
+ 
+jLLLAPQcdgfehihiihrhaaxxaar_022210022 jLLLAPQcdgfehihiiqrqaqhxxhg_022210022
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+jLLvAQQbeghfighiihhhanknkck_211120020 jLLvAQQbeghfighiixxaacvvkck_211120020
+(0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0)((0, 4), [1, 1, 1, 1])
+ 
+kLLLALQkcdgfejhijijhrhaaqaajrj_0222100222 kLLLALQkcdgfejhijijqrqaqqxhsgj_0222100222
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+lLLLALAQccdgfejhiikkkhrhaaqaarahx_02221002220 lLLLALAQccdgfejhiikkkqrqaqqxhgqxh_02221002220
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+mLLLALAAQcdgfejhiiklllhrhaaqaaraqsj_022210022200 mLLLALAAQcdgfejhiiklllqrqaqqxhgqqsj_022210022200
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+mvLLMvQQQegffhijkllkklreuegggvvrggr_120200111111 mvLLMvQQQegffhjikllkklreuegrrvvrwwr_120200111111
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0)((1, 2), [2, 2])
+ 
+mvLLMvQQQegffhijkllkklreuegrrvvbggb_120200110011 mvLLMvQQQegffhjikllkklreuegggvvbwwb_120200110011
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0)((1, 2), [2, 2])
+ 
+mvvLPQwQQfjfihgfkllklkhahaaaaqqxxaa_210012222211 mvvLPQwQQfjfihgfkllklkhahaaaaqqxxaa_211112222200
+(0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+nLLLALAAMkcdgfejhiiklmmmhrhaaqaaraqqxh_0222100222002 nLLLALAAMkcdgfejhiiklmmmqrqaqqxhgqqqxh_0222100222002
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+nLLvAQzPMkbeghfigijklmmmhhhankncxvvqqa_2111200202112 nLLvAQzPMkbeghfigijklmmmxxaacvvcxvvqqa_2111200202112
+(0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0)((0, 4), [1, 1, 1, 1])
+ 
+nLvvLAMQQkcehikjmljkmlmlhaggcvpdrrquih_2010211002202 nLvvLAMQQkcehikjmlkjlmmlhaggcvpdwwlxih_2010211002202
+(0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+nLvvLAPQQkcehiimlijklmmlhaggraarrrhaah_2010211002200 nLvvLAPQQkcehiimlijklmmlhaggraarrrhaah_2010222001100
+(0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+nLvvLQLQQkbggjkgmjlklmmlhagrrgpkqneqpe_1200001112222 nLvvLQLQQkbggkjgljmkmllmhagwwgtkxnixti_1200001112222
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+nvLLLLPQQkcdfghmkllkmkmlwrqrbaggggxwxw_1020211111110 nvLLLLPQQkcdfghmlkklmkmlwrqrbarrrrxwxw_1020211111110
+(0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+nvLLLLPQQkcdfghmkllkmkmlwrqrbarrggxbxb_1020211111000 nvLLLLPQQkcdfghmlkklmkmlwrqrbaggrrxbxb_1020211111000
+(0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+nvLvLLQQQkdiklimjhklmklmjaxoooffjoosff_2011021222222 nvLvLLQQQkdikmiljhkmlklmjaxsosffjsssff_2011021222222
+(0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0)((0, 4), [1, 1, 1, 1])
+ 
+nvLvLLQQQkdiklimjhkmlkmljaxsosffjsssff_2011021222211 nvLvLLQQQkdikmiljhklmkmljaxoooffjoosff_2011021222211
+(0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0)((0, 4), [1, 1, 1, 1])
+ 
+oLLLALAAMPccdgfejhiiklmnnnhrhaaqaaraqqqjs_02221002220022 oLLLALAAMPccdgfejhiiklmnnnqrqaqqxhgqqqqjs_02221002220022
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+oLLvLLAMQQcbefkliljlnmmnmnhhaaaoxfxphehjs_12001111220000 oLLvLLAMQQcbefkliljlnmmnnmhhaaaoqfqphehfo_12001111220000
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1)((1, 2), [2, 2])
+ 
+oLLvLLMAQQcbefkliljlnmmnmnhhaaakxnxmalank_12001122110000 oLLvLLMAQQcbefkliljlnmmnnmhhaaakqnqmalavc_12001122110000
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1)((1, 2), [2, 2])
+ 
+oLLvLLwQQQcbefkllnmlkmnknmhhaaaqaaqxahxha_12001111220000 oLLvLLwQQQcbefkllnmlkmnknmhhaaaqaaqxahxha_12001122110000
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1)((1, 2), [2, 2])
+ 
+oLLvMvzQQQccdfhihnjklmlmnnhsawrnaaasjsjbb_12220111022222 oLLvMvzQQQccdfhihnkjlmlmnnhsawrnahhsosobb_12220111022222
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1)((1, 2), [2, 2])
+ 
+oLLvMvzQQQccdfhihnjklmlmnnhsawrnahhfjfjbb_12220111011222 oLLvMvzQQQccdfhihnkjlmlmnnhsawrnaaafofobb_12220111011222
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1)((1, 2), [2, 2])
+ 
+oLvvLAMPQQccehikjmjknlnlmnhaggcvqrrduhhnv_20102110022020 oLvvLAMPQQccehikjmkjlnnlmnhaggcvqwwlmhhnv_20102110022020
+(0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+oLvvLPLQQQcbgjkllljnmmknnmharraaholqmfqud_12000012211211 oLvvLPLQQQcbgkjllljmnnkmmnhawwaahodxufxml_12000012211211
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+oLvvLPLQQQcbgjklllnjmkmnnmharraahpkqneqpe_12000011122222 oLvvLPLQQQcbgkjlllmjnknmmnhawwaahtkxnixti_12000011122222
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+oLvvLPQAPQcbgjkhilllnmmnnmharrwwaahaaahha_12000011122200 oLvvLPQAPQcbgjkhilllnmmnnmharrwwaahaaahha_12000012211200
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+oLvvLQLAQQcbggjkgmjklnmlnnhagrrgpkneqpewg_12000011122222 oLvvLQLAQQcbggkjgljkmnlmnnhagwwgtkniqtibr_12000011122222
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+ovLLzPLAQQcefhhihmjlnllmnnctmilwabuxtudlk_12020111210220 ovLvLAAAQQceijkkhkjlnmnlmnfaxqwbkwguqdfmw_12222011111020
+(0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0)((0, 4), [1, 1, 1, 1])
+ 
+pLLLALAAMzQcdgfejhiiklmnooohrhaaqaaraqqqqhx_022210022200220 pLLLALAAMzQcdgfejhiiklmnoooqrqaqqxhgqqqqqhx_022210022200220
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLLwvLQPQQcdgfijknnlmlmooohshaxaaxosjsjqqx_122201102222221 pLLLwvLQPQQcdgfikjnnlmlmooohshaxhhxososoqqx_122201102222221
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0)((1, 2), [2, 2])
+ 
+pLLLwvLQPQQcdgfijknnlmlmooohshaxhhxofjfjqqx_122201102112221 pLLLwvLQPQQcdgfikjnnlmlmooohshaxaaxofofoqqx_122201102112221
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLLALQQQbefklijnkmkomonohhaaaofxxhxhfojf_120011221100010 pLLvLLALQQQbefklijnkmkoomnohhaaaofxqhqhjsjf_120011221100010
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLLMAMQQbefkliljlmonmnoohhaaakxnxaqankkc_120011221100002 pLLvLLMAMQQbefkliljlmonnmoohhaaakqnqaqavckc_120011221100002
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLvAMQQQbefmiljlonnomnomhhahoxfxphehgjsg_120011112200200 pLLvLvAMQQQbefmiljlonnomonmhhahoqfqphehgfog_120011112200200
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLvMAQQQbefmiljlonnomnomhhahkxnxmalagnkg_120011221100200 pLLvLvMAQQQbefmiljlonnomonmhhahkqnqmalagvcg_120011221100200
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLvwQQQQbefmlonlknokonmmhhahqaaqxahxhagg_120011112200200 pLLvLvwQQQQbefmlonlknokonmmhhahqaaqxahxhagg_120011221100200
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLzLAQQQbefkimjmonnolmnohhahkxnxmalaggnk_120011221120000 pLLvLzLAQQQbefkimjmonnolmonhhahkqnqmalaggvc_120011221120000
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLzvQQQQbefkmonmlnolonlmhhahqaaqxahxhagg_120011112220000 pLLvLzvQQQQbefkmonmlnolonlmhhahqaaqxahxhagg_120011221120000
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLvLzzMQQQbefkimjmonnolmnohhahoxfxphehggjs_120011112220000 pLLvLzzMQQQbefkimjmonnolmonhhahoqfqphehggfo_120011112220000
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLLvMvzAQQQcdfhihnjlmloononhsawrnahsosbgbsb_122201110222222 pLLvMvzAQQQcdfhihnkololmnonhsawrnaagsbsjbsb_122201110222222
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0)((1, 2), [2, 2])
+ 
+pLLvMvzAQQQcdfhihnjlmolononhsawrnaafogfbbob_122201110112221 pLLvMvzAQQQcdfhihnkloolmnonhsawrnahfbgfjbob_122201110112221
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0)((1, 2), [2, 2])
+ 
+pLvvLPLQMQQbgjkllljnmkonmooharraaholmfxudwb_120000122112111 pLvvLPLQMQQbgkjllljmnkomnoohawwaahodufxmlgr_120000122112111
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+pLvvLPLQMQQbgjklllnjkmonmooharraahpkneqpewg_120000111222222 pLvvLPLQMQQbgkjlllmjknomnoohawwaahtkniqtibr_120000111222222
+(0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLLALAAMzMkcdgfejhiiklmnoppphrhaaqaaraqqqqqsj_0222100222002200 qLLLALAAMzMkcdgfejhiiklmnopppqrqaqqxhgqqqqqqsj_0222100222002200
+(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLLwvLAMQQkcdgfnjknolmlmppophshahaawjsjsjqqra_1222011022222221 qLLLwvLAMQQkcdgfnkjnolmlmppophshahhhwjsosoqqra_1222011022222221
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0)((1, 2), [2, 2])
+ 
+qLLLwvLAMQQkcdgfnjknolmlmppophshahhhwjfjfjqqra_1222011021122221 qLLLwvLAMQQkcdgfnkjnolmlmppophshahaawjfofoqqra_1222011021122221
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0)((1, 2), [2, 2])
+ 
+qLLLwvLMPQQkcdgfijnnlmlooppophshaxaxosjsgbqqsx_1222011022222221 qLLLwvLMPQQkcdgfiknnololmppophshaxhxobsgsoqqsx_1222011022222221
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0)((1, 2), [2, 2])
+ 
+qLLLwvLMPQQkcdgfijnnlmoloppophshaxhxofjbfgqqox_1222011021122211 qLLLwvLMPQQkcdgfiknnloolmppophshaxaxofgbfoqqox_1222011021122211
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0)((1, 2), [2, 2])
+ 
+qLLvAvAMQLQkbeehklmnjnnppopooxxxahahxxxaxqxxxq_2111200221111100 qvvLPQMvQLQkfgfhhgfknlmoppopohahhaaahaqqaqqaaa_1222211100222200
+(0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0)((1, 4), [2, 2, 2, 2])
+ 
+qLLvAvQMQLMkbeehjljkljkmnopppxxxaxaxahxhahhxxa_2111200221111221 qLLvzLLPQQMkbehkmolklmnmnlppphhaaahaaaxxxxaaah_1200111111000021
+(0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0)((1, 4), [2, 2, 2, 2])
+ 
+qLLvLLALPQQkbefklijkmkomonppphhaaaofxhxhfojrws_1200112211000101 qLLvLLALPQQkbefklijkmkoomnppphhaaaofqhqhjsjrws_1200112211000101
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLLMAMPQkbefkliljlmnmnoppphhaaakxnxaankknwr_1200112211000022 qLLvLLMAMPQkbefkliljlmnnmoppphhaaakqnqaavcknwr_1200112211000022
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLvALQQQkbefmijoknkpmnpmophhahofxxhxhgfogjf_1200112211002010 qLLvLvALQQQkbefmijoknkpmpnmophhahofxqhqhgjsgjf_1200112211002010
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLvAMQAQkbefmiljlonnonoppphhahoxfxphehjsaah_1200111122002001 qLLvLvAMQAQkbefmiljlonnoonppphhahoqfqphehfoaah_1200111122002001
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLvMAMQQkbefmiljlnpomnompphhahkxnxaqagnkgkc_1200112211002002 qLLvLvMAMQQkbefmiljlnpomonmpphhahkqnqaqagvcgkc_1200112211002002
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLvMAQAQkbefmiljlonnonoppphhahkxnxmalankaah_1200112211002001 qLLvLvMAQAQkbefmiljlonnoonppphhahkqnqmalavcaah_1200112211002001
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLvwQQQMkbefmlonlknokonppphhahqaaqxahxhaaah_1200111122002001 qLLvLvwQQQMkbefmlonlknokonppphhahqaaqxahxhaaah_1200112211002001
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLwMzPQQkcchikmlponknnoppolnkkahhaaxxlknvvn_1200111111222000 qLLvLwMzPQQkcchikmlponknnoppolnkkahhaaxxlknvvn_1200111221200000
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLwwLQQQkcchiklnpmokoopnnplnkkaeptixxlksbsg_1200111111222202 qLLvLwwLQQQkccihklpnmokoonppnlnccaeeiixxlkjrjw_1200111111222202
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLwwLQQQkcchiknlmpokoonpnplnkkaaaxxxxlknssk_1200111221200000 qLLvLwwLQQQkccihkplmnokoopnpnlnccaqaxhxxlkcjjv_1200111221200000
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLzALQAQkbefklijnommonpnpphhahhofaphehrarud_1200111122220000 qLLvLzALQAQkbefklijnommonpnpphhahhofaphehwawml_1200111122220000
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1)((1, 2), [2, 2])
+ 
+qLLvLzLAMQQkbefkimjmnpolmnopphhahkxnxaqaggnkkc_1200112211200002 qLLvLzLAMQQkbefkimjmnpolmonpphhahkqnqaqaggvckc_1200112211200002
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLzLAQAQkbefkimjmonnoppnophhahkxnxmalahanka_1200112211200001 qLLvLzLAQAQkbefkimjmonnopponphhahkqnqmalahavca_1200112211200001
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLzMPMQPkbefklijnmmonooppphhahhknpdaaprrapq_1200111122220200 qLLvLzMPMQPkbefklijnmmonooppphhahhknpdaapwwatx_1200111122220200
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1)((1, 2), [2, 2])
+ 
+qLLvLzvQQQMkbefkmonmlnolonppphhahqaaqxahxhahaa_1200111122200001 qLLvLzvQQQMkbefkmonmlnolonppphhahqaaqxahxhahaa_1200112211200001
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLzwPMQQkbefklnmomnpnmpopohhahhaaaahaharwrw_1200111122220000 qLLvLzwPMQQkbefklnmomnpnmpopohhahhaaaahaharwrw_1200112211220000
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1)((1, 2), [2, 2])
+ 
+qLLvLzzLQQQkbefkijolnlplmnpophhahofxxhxhggfojf_1200112211200010 qLLvLzzLQQQkbefkijolnlplmpnophhahofxqhqhggjsjf_1200112211200010
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvLzzMQAQkbefkimjmonnoppnophhahoxfxphehhajsa_1200111122200001 qLLvLzzMQAQkbefkimjmonnopponphhahoqfqphehhafoa_1200111122200001
+(0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qLLvMvzAPQQkcdfhihnlooplpnonphsawrnafbgbfgbobo_1222011101122211 qLLvMvzAPQQkcdfhihnlppolononphsawrnafgbgfbbobo_1222011101122211
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0)((1, 2), [2, 2])
+ 
+qLLvMvzAPQQkcdfhihnololppnonphsawrnagsbsgbbsbs_1222011102222222 qLLvMvzAPQQkcdfhihnplploononphsawrnabsgsbgbsbs_1222011102222222
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0)((1, 2), [2, 2])
+ 
+qLLvPLvMQMQkcdhggnjmoklnopopphshgvapmhcjnbafem_1000121122011002 qLLvPLzMzQQkcdhggjmjnopmompophshgviaphchnschkt_1000121122000001
+(0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0)((0, 4), [1, 1, 1, 1])
+ 
+qLLvzvQzQQMkbehkmknonlnlmmppphhaxxxxhqxhxqhaah_0111022022111110 qLLvzvQzQQMkbehkmknonlnlmmppphhaxxxxhqxhxqhaah_2111200200111112
+(0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1)((1, 4), [2, 2, 2, 2])
+ 
+qvLLMLzAPAQkcdghhilmnomnonpppvvamgfxixmtlarrbo_0111122020211101 qvLLvQvQPQPkegigjklmolnmlppopgahaicamaxhluwcfs_2100122221101000
+(0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0)((0, 4), [1, 1, 1, 1])
+ 
+qvLLMvwAMQQkegffhkllplonmopporeuegvvraraaagggg_1202001111112222 qvLLMvwAMQQkegffhkllplonmopporeuegvvraraaarrrr_1202001111112222
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qvLLMvwAMQQkegffhkllplonmpoporeuegvvraraqqgrgr_1202001111110022 qvLLMvwAMQQkegffhkllplonmpoporeuegvvraraqqrgrg_1202001111110022
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qvLLMvwAMQQkegffhklmonppomnopreuegvvmultmexxro_1202001100112221 qvLLMvwAMQQkegffhklnompopnmporeuegvvduutilhhfg_1202001100112221
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0)((1, 2), [2, 2])
+ 
+qvLLMvwAPQQkegffhklkkpomnpoopreuegvvwwaaxxgrrg_1202001100112222 qvLLMvwAPQQkegffhklkkpomnpoopreuegvvwwaaxxgrrg_1202001111110022
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qvLLMvwAQMQkegffhklmkknoppoopreuegvvxggqhasgog_1202001100112222 qvLLMvwAQMQkegffhklnkkmopopporeuegvvhwwahafrjr_1202001100112222
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qvLLMvwQLQQkegffhkllpolnmpoporeuegvvbaabqqgggg_1202001100110022 qvLLMvwQLQQkegffhkllpolnmpoporeuegvvbaabqqrrrr_1202001100110022
+(0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qvLLvQzLAQQkefgkjhnljmoponoppgahmicdxkpqigwjvc_1020211112220002 qvLLvQzLAQQkefgkjhnljmoponpopgahmicdxkptmgwwkc_1020211112220002
+(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0)((0, 4), [1, 1, 1, 1])
+ 
+qvvLLPwAMQQkhhhfgnmmpmonopponaaaxxaaxaxaxhqqhx_0222211011002222 qvvLLPwAMQQkhhhfgnmmpmonopponaaaxxaaxaxaxhqqhx_1222200111002222
+(0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qvvLLPwAMQQkhhhfgnmmpmoonppnoaaaxxaaxaxahahhah_0222211011112222 qvvLLPwAMQQkhhhfgnmmpmoonppnoaaaxxaaxaxahahhah_1222200111112222
+(0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
+qvvLLPwAPQQkffhgfnmnnopopmmophhaaahhqqqqhhqqxx_0222200011112222 qvvLLPwAPQQkffhgfnmnnopopmmophhaaahhqqqqhhqqxx_1222211100002222
+(0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0)((1, 4), [2, 2, 2, 2])
+ 
+qvvLLPwAPQQkhhhfgnmnnpopommopaaaxxaahhaaqhhhhq_0222211000112222 qvvLLPwAPQQkhhhfgnmnnpopommopaaaxxaahhaaqhhhhq_0222211011002222
+(0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)((1, 2), [2, 2])
+ 
