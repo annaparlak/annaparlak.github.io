@@ -10,7 +10,7 @@ title: Papers
 
 2. _The taut polynomial and the Alexander polynomial_ 
  
-    [ J. Topol., 16: 720-756](https://doi.org/10.1112/topo.12302), [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v3)
+    [ J. Topol., 16: 720-756 (2023)](https://doi.org/10.1112/topo.12302), [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v3)
 
 3. _Computation of the taut, the veering and the Teichmüller polynomials_
 
