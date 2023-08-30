@@ -4,6 +4,12 @@ title: Talks
 
 ## Talks
 
+* [Australian Geometric Topology Webinar](https://sites.google.com/view/agtw/home), April 2023.
+
+* [UC Berkeley Topology Seminar](https://events.berkeley.edu/math/event/129800-topology-seminar-faces-of-the-thurston-norm-ball), UC Berkeley, March 2023.
+
+* [UC Davis Geometry/Topology Seminar](https://www.math.ucdavis.edu/research/seminars?talk_id=6618), UC Davis, November 2022.
+
 * [AMS -  EMS - SMF International Meeting](https://ams-ems-smf2022.inviteo.fr/index.php?onglet=10&paramAcces=&idUser=&emailUser=&acces=&paramToken=&paramSearch10-0=&paramCategory10-0=26+-+Combinatorial+and+Computational+Aspects+in+Topology), Grenoble, July 2022. [[slides]](files/Teich_via_Fox.pdf)
 
 * [Geometry and Topology Seminar](https://www.bristolmathsresearch.org/seminar/tba-35/), University of Bristol, May 2022.
