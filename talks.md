@@ -4,6 +4,8 @@ title: Talks
 
 ## Talks
 
+* [Knots, Surfaces, and 3-Manifolds](https://www.birs.ca/events/2023/5-day-workshops/23w5031/schedule), Casa Matemática Oaxaca, June 2023.
+
 * [Australian Geometric Topology Webinar](https://sites.google.com/view/agtw/home), April 2023.
 
 * [UC Berkeley Topology Seminar](https://events.berkeley.edu/math/event/129800-topology-seminar-faces-of-the-thurston-norm-ball), UC Berkeley, March 2023.
