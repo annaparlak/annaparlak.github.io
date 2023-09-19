@@ -3,10 +3,17 @@ title: Talks
 ---
 
 ## Talks
+* [Oklahome State Topology Seminar](https://www.mathdept.okstate.edu/announce/pdf/1506.pdf), virtual, September 2023.
+  
+* [Columbia Geometric Topology Seminar](http://www.math.columbia.edu/~gtseminar/), New York City, September 2023.
+
+* [Temple University Geometry and Topology Seminar](https://math.temple.edu/events/seminars/geometry/2023/), Philadelphia, September 2023.
+
+* [Rutgers University Topology/Geometry Seminar](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/icalrepeat.detail/2023/09/12/12078/-/faces-of-the-thurston-norm-ball-dynamically-represented-by-multiple-distinct-flows), New Brunswick, September 2023.
 
 * [Knots, Surfaces, and 3-Manifolds](https://www.birs.ca/events/2023/5-day-workshops/23w5031/schedule), Casa Matemática Oaxaca, June 2023.
 
-* [Australian Geometric Topology Webinar](https://sites.google.com/view/agtw/home), April 2023.
+* [Australian Geometric Topology Webinar](https://sites.google.com/view/agtw/home), virtual, April 2023.
 
 * [UC Berkeley Topology Seminar](https://events.berkeley.edu/math/event/129800-topology-seminar-faces-of-the-thurston-norm-ball), UC Berkeley, March 2023.
 
@@ -20,25 +27,25 @@ title: Talks
 
 * [Mapping class group and Out(F<sub>n</sub>)](https://indico.math.cnrs.fr/event/6575/), Institut Henri Poincaré, April 2022. [[Lightning talk - slides]](files/aboutVeeringGitHub.pdf)
 
-* [Geometry and Topology Seminar](https://math.wustl.edu/events/geometry-and-topology-seminar-tba-0), Washington University in St. Louis, March 2022.
+* [Geometry and Topology Seminar](https://math.wustl.edu/events/geometry-and-topology-seminar-tba-0), Washington University in St. Louis, virtual, March 2022.
 
 * [North Meets South Colloquium](https://www.maths.ox.ac.uk/node/39897), University of Oxford, November 2021.
 
 * Nearly Carbon Neutral Geometric Topology Conference, June 2021. [[Part 1]](https://www.youtube.com/watch?v=GP6hWM8OPmc), [[Part 2]](https://www.youtube.com/watch?v=XLFWPPNrpiA)
 
-* [Topology and Geometric Group Theory Seminar](http://pi.math.cornell.edu/m/node/10595), Cornell University, April 2021.
+* [Topology and Geometric Group Theory Seminar](http://pi.math.cornell.edu/m/node/10595), Cornell University, virtual, April 2021.
 
-* [Topology Seminar](https://sites.cns.utexas.edu/topology/home),  University of Texas at Austin, March 2021.
+* [Topology Seminar](https://sites.cns.utexas.edu/topology/home),  University of Texas at Austin, virtual, March 2021.
 
-* [Topology Seminar](https://www.maths.ox.ac.uk/node/60908),  University of Oxford, February 2021.
+* [Topology Seminar](https://www.maths.ox.ac.uk/node/60908),  University of Oxford, virtual, February 2021.
 
-* [Algebra/Topology Seminar](https://www.math.ku.dk/english/calendar/events/algebratopology-seminar-11012021/),  University of Copenhagen, January 2021.
+* [Algebra/Topology Seminar](https://www.math.ku.dk/english/calendar/events/algebratopology-seminar-11012021/),  University of Copenhagen, virtual, January 2021.
 
-* [Junior Topology and Group Theory Seminar](https://www.maths.ox.ac.uk/node/37394),  University of Oxford, November 2020.
+* [Junior Topology and Group Theory Seminar](https://www.maths.ox.ac.uk/node/37394),  University of Oxford, virtual, November 2020.
 
-* UCR Topology Seminar, University of California Riverside, November 2020.
+* UCR Topology Seminar, University of California Riverside, virtual, November 2020.
 
-* Topology Seminar, Oklahoma State University, November 2020.
+* Topology Seminar, Oklahoma State University, virtual, November 2020.
 
 * [Bristol Junior Geometry Seminar](https://sites.google.com/view/brijges/home), University of Bristol, October 2019.
 
