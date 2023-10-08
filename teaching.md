@@ -1,5 +1,11 @@
 ## Teaching
 
+__2023/2024:__
+
+(UC Davis) Instructor for __Integral Calculus__ (1 class in the fall, 1 class in the spring)
+
+(UC Davis) Instructor for __Introduction to Abstract Mathematics__ (1 class in the fall, 1 class in the spring)
+
 __2022/2023:__
 
 (UC Davis) Instructor for __Differential Calculus__ (2 classes in the fall, 1 class in the spring)
