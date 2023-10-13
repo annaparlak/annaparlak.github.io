@@ -3,7 +3,7 @@ title: Talks
 ---
 
 ## Talks
-* [Oklahome State Topology Seminar](https://www.mathdept.okstate.edu/announce/pdf/1506.pdf), virtual, September 2023.
+* [Oklahoma State Topology Seminar](https://www.mathdept.okstate.edu/announce/pdf/1506.pdf), virtual, September 2023.
   
 * [Columbia Geometric Topology Seminar](http://www.math.columbia.edu/~gtseminar/), New York City, September 2023.
 
