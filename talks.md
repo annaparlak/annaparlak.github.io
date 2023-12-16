@@ -5,7 +5,7 @@ title: Talks
 ## Talks
 * [66th Texas Geometry and Topology Conference](https://sites.google.com/view/tgtc-fall-2023/home), Rice University, November 2023.
   
-* [Highway 17 Groups, Geometry, and Topology Seminar](https://sites.google.com/ucsc.edu/ggt/home), San Jose State & UC Santa Cruz, November 2023.
+* [Highway CA-17 Groups, Geometry, and Topology Seminar](https://sites.google.com/ucsc.edu/ggt/home), San Jose State & UC Santa Cruz, November 2023.
 
 * [Oklahoma State Topology Seminar](https://www.mathdept.okstate.edu/announce/pdf/1506.pdf), virtual, September 2023.
   
