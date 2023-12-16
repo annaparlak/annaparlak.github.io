@@ -15,7 +15,7 @@ title: Talks
 
 * [Rutgers University Topology/Geometry Seminar](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/icalrepeat.detail/2023/09/12/12078/-/faces-of-the-thurston-norm-ball-dynamically-represented-by-multiple-distinct-flows), New Brunswick, September 2023.
 
-* [Knots, Surfaces, and 3-Manifolds](https://www.birs.ca/events/2023/5-day-workshops/23w5031/schedule), Casa Matemática Oaxaca, June 2023.
+* [Knots, Surfaces, and 3-Manifolds](https://www.birs.ca/events/2023/5-day-workshops/23w5031/schedule), Casa Matemática Oaxaca, June 2023. [[recording]](https://www.birs.ca/events/2023/5-day-workshops/23w5031/videos/watch/202306141100-Parlak.html)
 
 * [Australian Geometric Topology Webinar](https://sites.google.com/view/agtw/home), virtual, April 2023.
 
