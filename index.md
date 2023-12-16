@@ -20,6 +20,4 @@ Before coming to UC Davis I was a Postdoctoral Research Associate at the Univers
 
 ### Upcoming talks
 
-* November 3rd 2023: Highway 17 Groups, Geometry, and Topology Seminar (San Jose State & UC Santa Cruz)
-
-* November 10th - 12th 2023: [66th Texas Geometry and Topology Conference](https://sites.google.com/view/tgtc-fall-2023/home) (Rice University)
+* January 23rd, 2024: Algebra and Number Theory Seminar @ Oregon State University
