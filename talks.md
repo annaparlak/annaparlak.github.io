@@ -3,6 +3,8 @@ title: Talks
 ---
 
 ## Talks
+* [Algebra and Number Theory Seminar @ Oregon State University](https://math.oregonstate.edu/mathematics-news-events/all-events/tba-2024-01-23), virtual, January 2024.
+
 * [66th Texas Geometry and Topology Conference](https://sites.google.com/view/tgtc-fall-2023/home), Rice University, November 2023.
   
 * [Highway CA-17 Groups, Geometry, and Topology Seminar](https://sites.google.com/ucsc.edu/ggt/home), San Jose State & UC Santa Cruz, November 2023.
