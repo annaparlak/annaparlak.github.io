@@ -21,3 +21,7 @@ Before coming to UC Davis I was a Postdoctoral Research Associate at the Univers
 <!---### Upcoming talks
 
 * January 23rd, 2024: [Algebra and Number Theory Seminar @ Oregon State University](https://math.oregonstate.edu/mathematics-news-events/all-events/tba-2024-01-23) -->
+
+### Upcoming talks
+
+* May 17 - 19, 2024: [St. Louis Topology Conference: Flows and Foliations in 3-manifolds](https://sites.google.com/view/stltc/home)
