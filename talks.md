@@ -37,7 +37,7 @@ title: Talks
 
 * [North Meets South Colloquium](https://www.maths.ox.ac.uk/node/39897), University of Oxford, November 2021.
 
-* Nearly Carbon Neutral Geometric Topology Conference, June 2021. [[Part 1]](https://www.youtube.com/watch?v=GP6hWM8OPmc), [[Part 2]](https://www.youtube.com/watch?v=XLFWPPNrpiA)
+* Nearly Carbon Neutral Geometric Topology Conference, June 2021. 
 
 * [Topology and Geometric Group Theory Seminar](http://pi.math.cornell.edu/m/node/10595), Cornell University, virtual, April 2021.
 
