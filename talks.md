@@ -3,6 +3,8 @@ title: Talks
 ---
 
 ## Talks
+* [St. Louis Topology Conference: Flows and Foliations in 3-manifolds](https://sites.google.com/view/stltc/home), Washington University in St. Louis, May 2024.
+  
 * [Algebra and Number Theory Seminar @ Oregon State University](https://math.oregonstate.edu/mathematics-news-events/all-events/tba-2024-01-23), virtual, January 2024.
 
 * [66th Texas Geometry and Topology Conference](https://sites.google.com/view/tgtc-fall-2023/home), Rice University, November 2023.
