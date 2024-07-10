@@ -11,7 +11,7 @@ title: Papers
 
 2. _Mutations and faces of the Thurston norm ball dynamically represented by multiple distinct flows_
 
-    [arXiv:2303.17665](https://arxiv.org/abs/2303.17665)
+    To appear in Geometry & Topology [arXiv:2303.17665](https://arxiv.org/abs/2303.17665)
 
 4. _The taut polynomial and the Alexander polynomial_ 
  
