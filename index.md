@@ -18,8 +18,14 @@ Before coming to UC Davis I was a Postdoctoral Research Associate at the Univers
 [My CV](files/Parlak_CV_March2024_AmE.pdf)
 
 
-<!---### Upcoming talks
+### Upcoming talks
 
-* January 23rd, 2024: [Algebra and Number Theory Seminar @ Oregon State University](https://math.oregonstate.edu/mathematics-news-events/all-events/tba-2024-01-23) -->
+* September 6th, 2024: [CIRGET Seminar, Université du Québec à Montréal](https://www.cirget.uqam.ca/en/seminars.html)
+
+* September 9th - 13th, 2024: Sequence of talks at Queens University
+
+* September 13th, 2024: [Department Colloquium at Queens University](https://www.queensu.ca/mathstat/seminars/colloquium)
+
+
 
 
