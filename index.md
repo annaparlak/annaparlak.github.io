@@ -26,6 +26,7 @@ Before coming to UC Davis I was a Postdoctoral Research Associate at the Univers
 
 * September 13th, 2024: [Department Colloquium at Queens University](https://www.queensu.ca/mathstat/seminars/colloquium)
 
+* November 11th - 15th, 2024: [Hodgsonfest](https://sites.google.com/view/agtw/hodgsonfest)
 
 
 
