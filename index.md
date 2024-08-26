@@ -17,7 +17,7 @@ Before coming to UC Davis I was a Postdoctoral Research Associate at the __Unive
 
 Besides mathematics, I also have a BSc in biotechnology. I am not currently involved in any biology-related projects where I could apply my topological expertise. If you have any interesting project in mind where I could be of use, please feel free to reach out!
 
-You can download my academic CV here: [Parlak/CV](files/Parlak_CV_March2024_AmE.pdf)
+You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Aug2024_AmE.pdf)
 
 
 ### Upcoming talks
