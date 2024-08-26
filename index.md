@@ -13,9 +13,11 @@ You can get in contact with me at ![email](files/20B57BDE-B485-4812-A296-BD844F4
 &nbsp;
 
 
-Before coming to UC Davis I was a Postdoctoral Research Associate at the University of Oxford (2021 - 2022), a PhD student at the University of Warwick (2017 - 2021), and a MSc (2015 - 2017) and a BSc (2012 - 2015) student at the University of Gdańsk. Besides mathematics, I also have a BSc in biotechnology.
+Before coming to UC Davis I was a Postdoctoral Research Associate at the __University of Oxford__ (2021 - 2022), a PhD student at the __University of Warwick__ (2017 - 2021), and a MSc (2015 - 2017) and a BSc (2012 - 2015) student at the __University of Gdańsk__. 
 
-You can download my CV here: [Parlak/CV](files/Parlak_CV_March2024_AmE.pdf)
+Besides mathematics, I also have a BSc in biotechnology.
+
+You can download my academic CV here: [Parlak/CV](files/Parlak_CV_March2024_AmE.pdf)
 
 
 ### Upcoming talks
