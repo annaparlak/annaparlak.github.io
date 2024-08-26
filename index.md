@@ -15,7 +15,7 @@ You can get in contact with me at ![email](files/20B57BDE-B485-4812-A296-BD844F4
 
 Before coming to UC Davis I was a Postdoctoral Research Associate at the __University of Oxford__ (2021 - 2022), a PhD student at the __University of Warwick__ (2017 - 2021), and a MSc (2015 - 2017) and a BSc (2012 - 2015) student at the __University of Gdańsk__. 
 
-Besides mathematics, I also have a BSc in biotechnology.
+Besides mathematics, I also have a BSc in biotechnology. I am not currently involved in any biology-related projects where I could apply my topological expertise, but if you have an interesting project in mind, please feel free to reach out!
 
 You can download my academic CV here: [Parlak/CV](files/Parlak_CV_March2024_AmE.pdf)
 
