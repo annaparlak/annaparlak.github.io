@@ -22,11 +22,7 @@ You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Aug2024_AmE.pd
 
 ### Upcoming talks
 
-* September 6th, 2024: [CIRGET Seminar, Université du Québec à Montréal](https://www.cirget.uqam.ca/en/seminars.html)
-
-* September 9th - 13th, 2024: Sequence of talks at Queen's University
-
-* September 13th, 2024: [Department Colloquium at Queen's University](https://www.queensu.ca/mathstat/seminars/colloquium)
+* October 1st, 2024: [UC Davis Geometry/Topology Seminar](https://www.math.ucdavis.edu/research/seminars?talk_id=7179)
 
 * November 11th - 15th, 2024: [Hodgsonfest](https://sites.google.com/view/agtw/hodgsonfest) @ University of Melbourne
 
