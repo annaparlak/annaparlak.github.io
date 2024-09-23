@@ -3,6 +3,12 @@ title: Talks
 ---
 
 ## Talks
+* [Department Colloquium](https://www.queensu.ca/mathstat/anna-parlak-uc-davis), Queen's University, September 2024. 
+
+* Special seminars on Sep 9th and Sep 11th  (2 x 1.5h), Queen's University, September 2024. 
+
+* [CIRGET Geometry and Topology Seminar](https://www.cirget.uqam.ca/en/seminars.html),  Université du Québec à Montréal, September 2024.
+  
 * [St. Louis Topology Conference: Flows and Foliations in 3-manifolds](https://sites.google.com/view/stltc/home), Washington University in St. Louis, May 2024.
   
 * [Algebra and Number Theory Seminar @ Oregon State University](https://math.oregonstate.edu/mathematics-news-events/all-events/tba-2024-01-23), virtual, January 2024.
