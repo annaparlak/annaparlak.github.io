@@ -3,6 +3,9 @@ title: Talks
 ---
 
 ## Talks
+
+* [UC Davis Geometry/Topology Seminar](https://www.math.ucdavis.edu/research/seminars?talk_id=7179), October 2024.
+  
 * [Department Colloquium](https://www.queensu.ca/mathstat/anna-parlak-uc-davis), Queen's University, September 2024. 
 
 * Special seminars on Sep 9th and Sep 11th  (2 x 1.5h), Queen's University, September 2024. 
