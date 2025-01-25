@@ -9,7 +9,7 @@ title: Research
 * veering triangulations
 * mapping class groups
 
-#### The list of my papers and preprints is available under the `Papers' tab in the top menu bar.
+The list of my papers and preprints is available under the **Papers** tab in the top menu bar.
 
 
 ## Research description
