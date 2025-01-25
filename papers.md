@@ -7,7 +7,7 @@ title: Papers
 
 1. _Arbitrarily large veering triangulations with a vanishing taut polynomial_
 
-    **Groups, Geometry, and Dynamics**, [Groups Geom. Dyn. (2025), published online first](https://ems.press/journals/ggd/articles/14298509),[arXiv:2309.01752](https://arxiv.org/abs/2309.01752)
+    **Groups, Geometry, and Dynamics**, [Groups Geom. Dyn. (2025)](https://ems.press/journals/ggd/articles/14298509), [arXiv:2309.01752](https://arxiv.org/abs/2309.01752)
 
 2. _Mutations and faces of the Thurston norm ball dynamically represented by multiple distinct flows_
 
