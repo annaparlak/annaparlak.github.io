@@ -3,6 +3,7 @@ title: Talks
 ---
 
 ## Talks
+* [Hodgsonfest](https://sites.google.com/view/agtw/hodgsonfest) @ University of Melbourne, November 2024.
 
 * [UC Davis Geometry/Topology Seminar](https://www.math.ucdavis.edu/research/seminars?talk_id=7179), October 2024.
   
