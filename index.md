@@ -22,7 +22,7 @@ You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Oct2024_AmE.pd
 
 ### Upcoming talks
 
-* November 11th - 15th, 2024: [Hodgsonfest](https://sites.google.com/view/agtw/hodgsonfest) @ University of Melbourne
+* March 4, 2025: Geometry & Topology Seminar @ Yale University
 
 
 
