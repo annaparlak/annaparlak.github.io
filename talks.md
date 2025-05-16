@@ -3,6 +3,8 @@ title: Talks
 ---
 
 ## Talks
+* [Geometry & Topology Seminar](https://math.yale.edu/event/drilling-veering-triangulations-and-applications-pseudo-anosov-flows), Yale University, March 2025.
+
 * [Hodgsonfest](https://sites.google.com/view/agtw/hodgsonfest), University of Melbourne, November 2024.
 
 * [UC Davis Geometry/Topology Seminar](https://www.math.ucdavis.edu/research/seminars?talk_id=7179), October 2024.
@@ -23,9 +25,9 @@ title: Talks
 
 * [Oklahoma State Topology Seminar](https://www.mathdept.okstate.edu/announce/pdf/1506.pdf), virtual, September 2023.
   
-* [Columbia Geometric Topology Seminar](http://www.math.columbia.edu/~gtseminar/), New York City, September 2023.
+* [Columbia Geometric Topology Seminar](http://www.math.columbia.edu/~gtseminar/), Columbia University, September 2023.
 
-* [Temple University Geometry and Topology Seminar](https://math.temple.edu/events/seminars/geometry/2023/), Philadelphia, September 2023.
+* [Temple University Geometry and Topology Seminar](https://math.temple.edu/events/seminars/geometry/2023/), Temple University, September 2023.
 
 * [Rutgers University Topology/Geometry Seminar](https://www.math.rutgers.edu/news-events/seminars-colloquia-calendar/icalrepeat.detail/2023/09/12/12078/-/faces-of-the-thurston-norm-ball-dynamically-represented-by-multiple-distinct-flows), New Brunswick, September 2023.
 
