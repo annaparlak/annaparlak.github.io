@@ -2,9 +2,9 @@
 
 <img align="right" style="width: 20vw; margin: 0px 20px" src="files/IMG_1078.jpeg">
 
-I am a researcher at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
+I am a research scientist at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
 
-I study __thee-dimensional manifolds__ using combinatorial methods.
+I study __three-dimensional manifolds__ using combinatorial methods.
 
 You can get in contact with me at <img src="files/MPI_email2.jpg" width="150" alt="email">  
 
