@@ -17,6 +17,18 @@ Besides mathematics, I also have a BSc in biotechnology.
 
 You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Jul2025_AmE.pdf)
 
+---
+
+### Open positions at MPI MiS
+
+If you are interested in working with me, consider applying for a __PhD student__ or a __postdoctoral__ position at the Max Planck Institute for Mathematics in the Sciences.
+
+[PhD Call 2026](https://www.mis.mpg.de/career/imprs/apply) (deadline: November 1st, 2026)
+
+[Postdoc Call 2026](https://www.mis.mpg.de/career/postdoc) (deadline: December 1st, 2026)
+
+When asked for a mentor, choose ‘Anna Parlak’.
+
 <!--
 ### Upcoming talks
 
