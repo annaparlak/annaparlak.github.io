@@ -27,7 +27,13 @@ If you are interested in working with me, consider applying for a __PhD student_
 
 [Postdoc Call 2026](https://www.mis.mpg.de/career/postdoc) (deadline: December 1st, 2026)
 
-When asked for a mentor, choose ‘Anna Parlak’.
+This is an institute-wide call for a postdoctoral researcher. If you want to work with me, please choose 'Anna Parlak' when asked for a mentor.
+
+[Low-Dimensional Topology Call](https://www.mis.mpg.de/career/postdoctoral-research-scientist-low-dimensional-topology-dynamics) (deadline: December 1st, 2026)
+
+This is a dedicated call for a postdoctoral researcher to join my research group, [Low-dimensional topology](https://www.mis.mpg.de/low-dimensional-topology). 
+
+You should still explicitly select me as your mentor in the application.
 
 <!--
 ### Upcoming talks
