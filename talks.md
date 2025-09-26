@@ -3,6 +3,10 @@ title: Talks
 ---
 
 ## Talks
+* [Dublin Mathematics Colloquium](https://www.maths.tcd.ie/~dmc/), Trinity College Dublin, September 2025.
+
+* [Geometry Seminar](https://www.mis.mpg.de/events/series/geometry-seminar), Max Planck Institute for Mathematics in the Sciences, July 2025.
+
 * [Geometry & Topology Seminar](https://math.yale.edu/event/drilling-veering-triangulations-and-applications-pseudo-anosov-flows), Yale University, March 2025.
 
 * [Hodgsonfest](https://sites.google.com/view/agtw/hodgsonfest), University of Melbourne, November 2024.
