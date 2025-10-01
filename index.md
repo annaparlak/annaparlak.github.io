@@ -2,7 +2,7 @@
 
 <img align="right" style="width: 20vw; margin: 0px 20px" src="files/IMG_1078.jpeg">
 
-I am a research scientist at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
+I am a Research Group Leader (W2) at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
 
 I study __three-dimensional manifolds__ using combinatorial methods.
 
@@ -15,25 +15,25 @@ Before coming to MPI MiS, I was a Krener Assistant Professor at the __University
 
 Besides mathematics, I also have a BSc in biotechnology. 
 
-You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Jul2025_AmE.pdf)
+You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Oct2025_AmE.pdf)
 
 ---
 
 ### Open positions at MPI MiS
 
-If you are interested in working with me, consider applying for a __PhD student__ or a __postdoctoral__ position at the Max Planck Institute for Mathematics in the Sciences.
+If you are interested in working with me, consider applying for a __PhD student__ or a __postdoctoral__ position at the Max Planck Institute for Mathematics in the Sciences. In the application, you have the option to indicate me as a mentor.
 
 [PhD Call 2026](https://www.mis.mpg.de/career/imprs/apply) (deadline: November 1st, 2026)
 
 [Postdoc Call 2026](https://www.mis.mpg.de/career/postdoc) (deadline: December 1st, 2026)
 
-This is an institute-wide call for a postdoctoral researcher. If you want to work with me, please choose 'Anna Parlak' when asked for a mentor.
+_This is an institute-wide call for a postdoctoral researcher._ 
 
 [Low-Dimensional Topology Call](https://www.mis.mpg.de/career/postdoctoral-research-scientist-low-dimensional-topology-dynamics) (deadline: December 1st, 2026)
 
-This is a dedicated call for a postdoctoral researcher to join my research group, [Low-dimensional topology](https://www.mis.mpg.de/low-dimensional-topology). 
+_This is a dedicated call for a postdoctoral researcher to join my research group, [Low-dimensional topology](https://www.mis.mpg.de/low-dimensional-topology)._ 
 
-You should still explicitly select me as your mentor in the application.
+If you apply for an LDT postdoc, your application will also be considered for the institute’s general postdoc call. Therefore, you are welcome to list additional potential mentors besides me in your application (up to 3 in total).
 
 <!--
 ### Upcoming talks
