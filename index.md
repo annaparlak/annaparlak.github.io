@@ -19,7 +19,7 @@ From __January till May 2026__ I will be a Research Member at the [_Topological 
 &nbsp; 
 
 
-Before coming to MPI MiS, I was a Krener Assistant Professor at the __University of California, Davis__ (2022 - 2025), Postdoctoral Research Associate at the __University of Oxford__ (2021 - 2022), a PhD student at the __University of Warwick__ (2017 - 2021), and a MSc (2015 - 2017) and a BSc (2012 - 2015) student at the __University of Gdańsk__. 
+Before coming to MPI MiS, I was a Krener Assistant Professor at the __University of California, Davis__ (2022 - 2025), Postdoctoral Research Associate at the __University of Oxford__ (2021 - 2022), a PhD student at the __University of Warwick__ (2017 - 2021), and a MSc (2015 - 2017) and BSc (2012 - 2015) student at the __University of Gdańsk__. 
 
 Besides mathematics, I also have a BSc in biotechnology. 
 
