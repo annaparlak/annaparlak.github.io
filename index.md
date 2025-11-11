@@ -2,17 +2,12 @@
 
 <img align="right" style="width: 20vw; margin: 0px 20px" src="files/IMG_1078.jpeg">
 
-I am a Research Group Leader (W2) at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
-
-I study __three-dimensional manifolds__ using combinatorial methods.
-
-You can get in contact with me at <img src="files/MPI_email2.jpg" width="150" alt="email">  
-
-&nbsp; 
+I am leading the [Low-Dimensional Topology](https://www.mis.mpg.de/low-dimensional-topology) group at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
 
 From __January till May 2026__ I will be a Research Member at the [_Topological and Geometric Structures in Low Dimensions_](https://www.slmath.org/programs/368) program organized by the Simons Laufer Mathematical Sciences Institute in Berkeley, California. 
 
-&nbsp; 
+
+You can get in contact with me at <img src="files/MPI_email2.jpg" width="150" alt="email">  
 
 <p align="center">✦ ✦ ✦</p>
 
