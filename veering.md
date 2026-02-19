@@ -64,7 +64,7 @@ Veering’s functions operate on [Regina](https://regina-normal.github.io/) tria
 
 The resulting Regina triangulation has a fixed numbering of its tetrahedra, faces, and edges, consistent with the numbering illustrated in the figures available in the [Veering Census](https://math.okstate.edu/people/segerman/veering.html). 
 
-Information on how to work with Regina 3D-triangulations can be found here: [regina::Triangulation< 3 > Class Reference](https://regina-normal.github.io/engine-docs/classregina_1_1Triangulation_3_013_01_4.html).
+Information on how to work with Regina 3D-triangulations can be found at: [regina::Triangulation< 3 > Class Reference](https://regina-normal.github.io/engine-docs/classregina_1_1Triangulation_3_013_01_4.html).
 
 ---
 
@@ -84,7 +84,7 @@ This output means that the triangulation is non-measurable. For the other two ty
 
 ### Carried surfaces <a id="carried"></a>
 
-Surfaces carried by a veering triangulation correspond to surfaces that are positively transverse to the underlying (drilled) flow. They are in one-to-one correspondence with non-negative integer solutions of the matching/edge equations of the triangulation. If a triangulation has $n$ tetrahedra, each carried surface is given by a vector $(w_i)_{i=0}^{2n-1}$, where $v_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$. 
+Surfaces carried by a veering triangulation can be used to build embedded surfaces that are positively transverse to the underlying (drilled) flow. They correspond non-negative integer solutions of the matching/edge equations of the triangulation. If a triangulation has $n$ tetrahedra, each carried surface is given by a vector $(w_i)_{i=0}^{2n-1}$, where $v_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$. 
 
 The following function finds the primitive vectors on the extremal rays spanning the convex cone of non-negative solutions to the matching/edge equations:
 
@@ -100,6 +100,8 @@ The following function finds the primitive vectors on the extremal rays spanning
          (1, 0, 0, 1, 0, 1, 0, 0, 0, 1),
          (1, 1, 0, 0, 1, 0, 0, 0, 0, 1),
          (1, 0, 0, 1, 1, 0, 1, 0, 0, 0)]
+
+### Building a 2D Regina triangulation of a carried surface
 
 
 
@@ -117,6 +119,8 @@ __2. Veering structure__
 *  (now-standard definition) C.D. Hodgson, J.H. Rubinstein, H. Segerman, S. Tillmann [_Veering triangulations admit strict angle structures_], Definition 1.3.
 
 __3. Matching/edge equations__
+
+A. Parlak, [Computation of the Taut, the Veering, and the Teichmüller Polynomials](https://www.tandfonline.com/doi/epdf/10.1080/10586458.2021.1985656), Section 3.1. 
 
 
 
