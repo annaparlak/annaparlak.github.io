@@ -40,15 +40,16 @@ If you apply for the LDT postdoc, your application will also be considered for t
 
 ### Upcoming talks
 
-* January 21 - 23, 2026 @ [Pathways Workshop, Simons Laufer Mathematical Sciences Institute](https://www.slmath.org/workshops/1124)
-
-* March 23 - 27, 2026 @ [Recent Progress in Topological and Geometric Structures in Low Dimensions](https://www.slmath.org/workshops/1141)
+* June 2nd, 2026: [Nonlinear Algebra Seminar @ MPI MiS](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra) 
 
 
 <!--
 ### Upcoming talks
 
-* March 4, 2025: Geometry & Topology Seminar @ Yale University-->
+* March 4, 2025: Geometry & Topology Seminar @ Yale University
 
+* January 21 - 23, 2026 @ [Pathways Workshop, Simons Laufer Mathematical Sciences Institute](https://www.slmath.org/workshops/1124)
+
+* March 23 - 27, 2026 @ [Recent Progress in Topological and Geometric Structures in Low Dimensions](https://www.slmath.org/workshops/1141)-->
 
 
