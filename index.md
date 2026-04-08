@@ -21,6 +21,18 @@ Besides mathematics, I also have a BSc in biotechnology.
 You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Oct2025_AmE.pdf)
 
 ---
+
+
+### PhD positions at MPI MiS
+
+The International Max Planck Research School has open positions for PhD students to carry out their thesis under the guidance of its scientific members. You may indicate me as your preferred mentor in your application.
+
+The next application deadline is __May 1, 2026__.
+
+Further details on how to apply can be found here: [PhD Call 2026](https://www.mis.mpg.de/career/imprs/apply)
+
+---
+
 <!--
 ### Open positions at MPI MiS
 
