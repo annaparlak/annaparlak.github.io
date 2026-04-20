@@ -350,7 +350,7 @@ M. Landry, Y.N. Minsky, S.J. Taylor [Flows, growth rates, and the veering polyno
 
 __10. Drilling veering triangulations__
 
-A. Parlak, H. Segerman [Drilling veering triangulations and applications to pseudo-Anosov flows], in preparation.
+A. Parlak, H. Segerman Drilling veering triangulations and applications to pseudo-Anosov flows, in preparation.
 
 
 
