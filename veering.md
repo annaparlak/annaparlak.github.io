@@ -20,6 +20,7 @@ The [References](veering.md#ref) section at the end of this page provide sources
 - [Veering mutations](veering.md#mutations)
 - [Polynomial invariants](veering.md#polynomials)
 - [Flow cycles](veering.md#cycles)
+- [Drilling veering triangulations](veering.md#drilling)
 - [From a taut signature to a Regina triangulation](veering.md#regina)
 - [References](veering.md#ref)
 
@@ -89,7 +90,7 @@ This output means that the triangulation is non-measurable. For the other two ty
 
 ### Carried surfaces <a id="carried"></a>
 
-Every surface that is _carried by_ a veering triangulation determines a properly embedded surface that is positively transverse to the underlying (drilled) flow. Carried surfaces correspond to non-negative integer solutions of the matching/edge equations of the triangulation. If a triangulation has $$n$$ tetrahedra, each carried surface is given by a vector $$(w_i)_{i=0}^{2n-1}$$, where $$w_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$$. 
+Every surface that is _carried by_ a veering triangulation determines a properly embedded surface that is positively transverse to the underlying (drilled) flow. Carried surfaces correspond to non-negative integer solutions of the matching/edge equations of the triangulation. If a triangulation has $n$ tetrahedra, each carried surface is given by a vector $(w_i)_{i=0}^{2n-1}$, where $w_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$. 
 
 The following function finds the primitive vectors on the extremal rays spanning the convex cone of non-negative solutions to the matching/edge equations:
 
@@ -188,6 +189,8 @@ Given V and S we can perform all possible veering mutations of V along S using p
         layered: True
         edge-orientable: False
 
+The output tells us that the carried surface that we chose is of genus 2, with two boundary components, each inside a four-gon (see [Carried surfaces](veering.md#carried)). The surface has three nontrivial "veering symmetries", thus by performing all possible mutations we obtain three veering triangulations (although two of them are actually isomorphic).
+
 If no veering mutation is possible for a given (V, S) we would see:
 
         sage: sig = census[45]
@@ -244,6 +247,42 @@ Each flow cycle of a veering triangulation V can be represented by a tuple of pa
 
 Given a flow cycle, we can test whether the encoded orbit is twisted (meaning that the leaf of the stable foliation of the flow that contains the orbit is homeomorphic to an open Möbius band) or not. Twisted flow cycles appear only for veering triangulations that are not edge-orientable.
 
+---
+### Drilling veering triangulations <a id="drilling"></a>
+
+A veering triangulation can be constructed from a pair $(F_t, C)$ where F_t is a transitive pseudo-Anosov flow on a closed 3-manifold, and C is a finite, non-empty collection of closed orbits, that contains all singular orbits, and whose preimage to the universal cover intersects every perfect fit rectangle of the orbit space. We call C a _perfect set_ for F_t. 
+
+If C is a perfect set for F_t, and c is any closed orbit of F_t that is not already in C, then the union of C and c is another perfect set for F_t. We call the veering triangulation V_c associated to (F_t, c) a _veering parent_ of the veering triangulation V associated to (F_t, c), and the process of getting from V to V_c _drilling veering triangulations_. It has been implemented in Veering.
+
+The input is a veering triangulation and a list of flow cycles of that veering triangulation (see [Flow cycles](veering.md#cycles)).
+The output is the taut signature of the veering parent.
+
+        sage: sig = census[1]
+        sage: from veering import flow_cycles
+        sage: cycles = flow_cycles.generate_flow_cycles(sig, min_length = 2, max_length = 2) ### generating only cycles of length 2
+        sage: cycles
+        [((0, 0), (0, 5)), ((0, 4), (1, 2)), ((1, 0), (1, 5))]
+        sage: for cycle in cycles:
+        ....:     drill_flow_cycle.drill_flow_cycles(sig, [cycle]) ### Note the square brackets: one can input multiple cycles as a list!
+        ....: 
+        ['gLLPQccdfeffhggaagb_201022']
+        ['iLLLQPcceegfghhhiimaimimi_10221212']
+        ['gLLPQccdfeffhggaagb_201022']
+
+
+The algorithm for drilling relies on finding the preimage of the orbit(s) encoded by the flow cycle(s) inside certain _fundamental tetrahedron rectangles_. It is possible to generate images of drilled tetrahedron rectangles after creating the directory \texttt{Images/DrilledTetrahedra} in the working directory -- this is were the pictures are saved as pdf files.
+
+        sage: for cycle in cycles:
+        ....:     drill_flow_cycle.drill_flow_cycles(sig, [cycle], generate_picture=True
+        ....: )
+        ....: 
+        Images/DrilledTetrahedra/cPcbbbiht_12_[00-05].pdf
+        ['gLLPQccdfeffhggaagb_201022']
+        Images/DrilledTetrahedra/cPcbbbiht_12_[04-12].pdf
+        ['iLLLQPcceegfghhhiimaimimi_10221212']
+        Images/DrilledTetrahedra/cPcbbbiht_12_[10-15].pdf
+        ['gLLPQccdfeffhggaagb_201022']
+
 
 
 
@@ -288,7 +327,7 @@ __3. Edge-orientability__
 
 A. Parlak, [The taut polynomial and the Alexander polynomial](https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/topo.12302), Section 3.3.
 
-__4. Matching/edge/branch equations__
+__4. Branch equations (also called edge equations or matching equations)__
 
 A. Parlak, [Computation of the Taut, the Veering, and the Teichmüller Polynomials](https://www.tandfonline.com/doi/epdf/10.1080/10586458.2021.1985656), Section 3.1. 
 
@@ -311,6 +350,10 @@ A. Parlak, [Mutations and faces of the Thurston norm ball dynamically represente
 __8. Flow cycles__
 
 M. Landry, Y.N. Minsky, S.J. Taylor [Flows, growth rates, and the veering polyomial](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/flows-growth-rates-and-the-veering-polynomial/B79BE9FBDBE54CDE8C9D8A5285F4E7BF), Sections 2 (definition) and 6 (proof that flow cycles encode orbits of the flow).
+
+__10. Drilling veering triangulations__
+
+A. Parlak, H. Segerman [Drilling veering triangulations and applications to pseudo-Anosov flows], in preparation.
 
 
 
