@@ -16,6 +16,7 @@ The [References](veering.md#ref) section at the end of this page provide sources
 - [Layered, measurable, and non-measurable triangulations](veering.md#type)
 - [Carried surfaces](veering.md#carried)
 - [Topological information about a carried surface](veering.md#stratum)
+- [Homology classes of carried surfaces](veering.md#homology)
 - [Veering mutations](veering.md#mutations)
 - [Polynomial invariants](veering.md#polynomials)
 - [Flow cycles](veering.md#cycles)
@@ -64,6 +65,7 @@ Information on all veering triangulation with at most 16 tetrahedra can be found
 Each veering triangulation is either _edge-orientable_ or not. This corresponds to whether the stable lamination of the underlying drilled pseudo-Anosov flow is transversely orientable or not.
 
         sage: sig = census[17]
+        sage: from veering import edge_orientability
         sage: edge_orientability.is_edge_orientable(sig)
         False
 
@@ -77,6 +79,7 @@ One of the simplest classifications of veering triangulations is into those that
 To check the type of the triangulation, use
 
         sage: from veering import taut_polytope
+        sage: sig = census[17]
         sage: taut_polytope.LMN_tri_angle(sig)
         'N'
 
@@ -86,7 +89,7 @@ This output means that the triangulation is non-measurable. For the other two ty
 
 ### Carried surfaces <a id="carried"></a>
 
-Every surface that is _carried by_ a veering triangulation determines a properly embedded surface that is positively transverse to the underlying (drilled) flow. Carried surfaces correspond to non-negative integer solutions of the matching/edge equations of the triangulation. If a triangulation has $n$ tetrahedra, each carried surface is given by a vector $(w_i)_{i=0}^{2n-1}$, where $v_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$. 
+Every surface that is _carried by_ a veering triangulation determines a properly embedded surface that is positively transverse to the underlying (drilled) flow. Carried surfaces correspond to non-negative integer solutions of the matching/edge equations of the triangulation. If a triangulation has $$n$$ tetrahedra, each carried surface is given by a vector $$(w_i)_{i=0}^{2n-1}$$, where $$w_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$$. 
 
 The following function finds the primitive vectors on the extremal rays spanning the convex cone of non-negative solutions to the matching/edge equations:
 
@@ -113,13 +116,13 @@ The following function finds the primitive vectors on the extremal rays spanning
         sage: carried_surface.stratum(sig, weights)
         [[1, [2, 2]], [1, [2, 2]]]
 
-The output is a list of lists of the form [g, [k_1, ..., k_r]].
+The output is a list of lists of the form $$[g, [k_1, ..., k_r]]$$.
 
 The number of such lists is the number of connected components of the surface.
 
-The number g is the genus of the connected component, and r is the number of its punctures.
+The number $$g$$ is the genus of the connected component, and $$r$$ is the number of its punctures.
 
-Intersecting the surface with the stable lamination of the underlying flow gives a lamination in the surface whose complementary regions are once-punctured ideal polygons. Each number k_i is the number of sides of one such ideal polygon (or the number of prongs that we would get after capping off each puncture and collapsing the lamination into a (potentially singular) foliation on the closed surface).
+Intersecting the surface with the stable lamination of the underlying flow gives a lamination in the surface whose complementary regions are once-punctured ideal polygons. Each number k_i is the number of sides of one such ideal polygon (or the number of prongs that we would get after capping off each puncture and collapsing the lamination into a (potentially singular) foliation on the obtained closed surface).
 
 So the output [[1, [2, 2]], [1, [2, 2]]] means two connected components, each of which is a twice punctured torus, and each puncture is inside a bigon complementary region of the induced lamination.
 
@@ -133,6 +136,12 @@ The first Betti number of the manifold underlying census[29] is equal to 1, so w
         [[1, [1, 3]]]
         [[2, [2, 6]]]
         [[0, [1, 1, 1, 1]]]
+
+---
+### Cone in homology <a id="homology"></a>
+The homology classes of surfaces carried by a veering triangulation forms a cone in $$H_2(M, \partial M; \mathbb{Z})$$. Landry-Minsky-Taylor proved that, when nonempty, this is always a cone on a face of the Thurston norm ball.
+
+
 
 ---
 
@@ -271,7 +280,11 @@ __4. Matching/edge/branch equations__
 
 A. Parlak, [Computation of the Taut, the Veering, and the Teichmüller Polynomials](https://www.tandfonline.com/doi/epdf/10.1080/10586458.2021.1985656), Section 3.1. 
 
-__5. Polynomial invariants__
+__5. Cone of homology classes of surfaces carried by a veering triangulation and the Thurston norm__
+
+M. Landry, Y.N. Minsky, S.J. Taylor [A polynomial invariant for veering triangulations](https://ems.press/journals/jems/articles/11806809), Theorem 5.15.
+
+__6. Polynomial invariants__
 
 * (definition) M. Landry, Y.N. Minsky, S.J. Taylor [A polynomial invariant for veering triangulations](https://ems.press/journals/jems/articles/11806809), Section 3.
 
@@ -279,11 +292,11 @@ __5. Polynomial invariants__
 
 * (computation of the taut polynomial via Fox calculus) A. Parlak, [Arbitrarily large veering triangulations with a vanishing taut polynomial](https://ems.press/journals/ggd/articles/14298509), Section 2.4.2.
 
-__6. Veering mutations__
+__7. Veering mutations__
 
 A. Parlak, [Mutations and faces of the Thurston norm ball dynamically represented by multiple different flows](https://msp.org/gt/2025/29-4/gt-v29-n4-p07-s.pdf), Section 3.
 
-__7. Flow cycles__
+__8. Flow cycles__
 
 M. Landry, Y.N. Minsky, S.J. Taylor [Flows, growth rates, and the veering polyomial](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/flows-growth-rates-and-the-veering-polynomial/B79BE9FBDBE54CDE8C9D8A5285F4E7BF), Sections 2 (definition) and 6 (proof that flow cycles encode orbits of the flow).
 
