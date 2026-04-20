@@ -80,11 +80,11 @@ One of the simplest classifications of veering triangulations is into those that
 To check the type of the triangulation, use
 
         sage: from veering import taut_polytope
-        sage: sig = census[17]
+        sage: sig = census[8]
         sage: taut_polytope.LMN_tri_angle(sig)
-        'N'
+        'L'
 
-This output means that the triangulation is non-measurable. For the other two types, one gets 'L' (layered) or 'M' (measurable).
+This output means that the triangulation is layered. For the other two types, one gets 'M' (measurable) or 'N' (non-measurable).
 
 ---
 
@@ -189,7 +189,7 @@ Given V and S we can perform all possible veering mutations of V along S using p
         layered: True
         edge-orientable: False
 
-The output tells us that the carried surface that we chose is of genus 2, with two boundary components, each inside a four-gon (see [Carried surfaces](veering.md#carried)). The surface has three nontrivial "veering symmetries", thus by performing all possible mutations we obtain three veering triangulations (although two of them are actually isomorphic).
+The output tells us that the carried surface that we chose is of genus 2, with two boundary components, each inside a four-gon (see [Carried surfaces](veering.md#carried)). The surface has three nontrivial "veering symmetries" (see [References](veering.md#ref)). Thus by performing all possible mutations we obtain three veering triangulations (although two of them are actually isomorphic).
 
 If no veering mutation is possible for a given (V, S) we would see:
 
@@ -245,7 +245,7 @@ Each flow cycle of a veering triangulation V can be represented by a tuple of pa
          ((2, 3), (2, 5), (3, 0)),
          ((2, 5), (3, 4), (3, 0))]
 
-Given a flow cycle, we can test whether the encoded orbit is twisted (meaning that the leaf of the stable foliation of the flow that contains the orbit is homeomorphic to an open Möbius band) or not. Twisted flow cycles appear only for veering triangulations that are not edge-orientable.
+<!--Given a flow cycle, we can test whether the encoded orbit is twisted (meaning that the leaf of the stable foliation of the flow that contains the orbit is homeomorphic to an open Möbius band) or not. Twisted flow cycles appear only for veering triangulations that are not edge-orientable. -->
 
 ---
 ### Drilling veering triangulations <a id="drilling"></a>
