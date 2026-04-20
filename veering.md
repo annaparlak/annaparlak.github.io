@@ -141,7 +141,12 @@ The first Betti number of the manifold underlying census[29] is equal to 1, so w
 ### Cone in homology <a id="homology"></a>
 The homology classes of surfaces carried by a veering triangulation forms a cone in $$H_2(M, \partial M; \mathbb{Z})$$. Landry-Minsky-Taylor proved that, when nonempty, this is always a cone on a face of the Thurston norm ball.
 
+One can find the primitive integral classes generating the extremal rays of the cone (i.e. the rays through the vertices of the face) as follows.
 
+        sage: from veering import taut_polytope
+        sage: sig = census[8]
+        sage: taut_polytope.cone_in_homology(sig)
+        [N(1, -1), N(1, 1)]
 
 ---
 
