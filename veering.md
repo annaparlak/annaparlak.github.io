@@ -261,7 +261,7 @@ The resulting Regina triangulation has a fixed numbering of its tetrahedra, face
 
 Information on how to work with Regina 3D-triangulations can be found at: [regina::Triangulation< 3 > Class Reference](https://regina-normal.github.io/engine-docs/classregina_1_1Triangulation_3_013_01_4.html).
 
-It is also possible to go back from tri, angle to taut signature:
+It is also possible to go back from (tri, angle) to taut signature:
 
         sage: sig = census[8]
         sage: tri, angle = taut.isosig_to_tri_angle(sig)
