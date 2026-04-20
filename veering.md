@@ -250,9 +250,9 @@ Each flow cycle of a veering triangulation V can be represented by a tuple of pa
 ---
 ### Drilling veering triangulations <a id="drilling"></a>
 
-A veering triangulation can be constructed from a pair $(F_t, C)$ where F_t is a transitive pseudo-Anosov flow on a closed 3-manifold, and C is a finite, non-empty collection of closed orbits, that contains all singular orbits, and whose preimage to the universal cover intersects every perfect fit rectangle of the orbit space. We call C a _perfect set_ for F_t. 
+A veering triangulation can be constructed from a pair $(F_t, C)$ where F_t is a transitive pseudo-Anosov flow on a closed 3-manifold, and C is a finite, non-empty collection of closed orbits that contains all singular orbits, and whose preimage to the universal cover intersects every perfect fit rectangle in the orbit space. We call C a _perfect set_ for F_t. 
 
-If C is a perfect set for F_t, and c is any closed orbit of F_t that is not already in C, then the union of C and c is another perfect set for F_t. We call the veering triangulation V_c associated to (F_t, c) a _veering parent_ of the veering triangulation V associated to (F_t, c), and the process of getting from V to V_c _drilling veering triangulations_. It has been implemented in Veering.
+If C is a perfect set for F_t, and c is any closed orbit of F_t that is not already in C, then the union of C and c is another perfect set for F_t. We call the veering triangulation V_c associated to (F_t, C \cup c) a _veering parent_ of the veering triangulation V associated to (F_t, C). The process of getting from V to V_c is called _drilling (veering triangulations)_. It has been implemented in Veering.
 
 The input is a veering triangulation and a list of flow cycles of that veering triangulation (see [Flow cycles](veering.md#cycles)).
 The output is the taut signature of the veering parent.
@@ -270,7 +270,7 @@ The output is the taut signature of the veering parent.
         ['gLLPQccdfeffhggaagb_201022']
 
 
-The algorithm for drilling relies on finding the preimage of the orbit(s) encoded by the flow cycle(s) inside certain _fundamental tetrahedron rectangles_. It is possible to generate images of drilled tetrahedron rectangles after creating the directory \texttt{Images/DrilledTetrahedra} in the working directory -- this is were the pictures are saved as pdf files.
+The algorithm for drilling relies on finding the preimage of the orbit(s) encoded by the flow cycle(s) inside certain _fundamental tetrahedron rectangles_. It is possible to generate images of drilled tetrahedron rectangles after creating the directory Images/DrilledTetrahedra in the working directory -- this is were the pictures are saved as pdf files.
 
         sage: for cycle in cycles:
         ....:     drill_flow_cycle.drill_flow_cycles(sig, [cycle], generate_picture=True
