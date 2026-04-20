@@ -90,9 +90,9 @@ This output means that the triangulation is layered. For the other two types, on
 
 ### Carried surfaces <a id="carried"></a>
 
-Every surface that is _carried by_ a veering triangulation determines a properly embedded surface that is positively transverse to the underlying (drilled) flow. Carried surfaces correspond to non-negative integer solutions of the matching/edge equations of the triangulation. If a triangulation has $n$ tetrahedra, each carried surface is given by a vector $(w_i)_{i=0}^{2n-1}$, where $w_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$. 
+Every surface that is _carried by_ a veering triangulation determines a properly embedded surface that is positively transverse to the underlying (drilled) flow. Carried surfaces correspond to non-negative integer solutions of the _branch equations_ (also called _matching_ or _edge equations_) of the triangulation. If a triangulation has $n$ tetrahedra, each carried surface is given by a vector $(w_i)_{i=0}^{2n-1}$, where $w_i \in \mathbb{Z} \cap \lbrack 0, +\infty)$. 
 
-The following function finds the primitive vectors on the extremal rays spanning the convex cone of non-negative solutions to the matching/edge equations:
+The following function finds the primitive vectors on the extremal rays spanning the convex cone of non-negative solutions to the branch equations:
 
         sage: sig = census[29]
         sage: from veering import taut_polytope
@@ -117,11 +117,11 @@ The following function finds the primitive vectors on the extremal rays spanning
         sage: carried_surface.stratum(sig, weights)
         [[1, [2, 2]], [1, [2, 2]]]
 
-The output is a list of lists of the form $$[g, [k_1, ..., k_r]]$$.
+The output is a list of lists of the form [g, [k_1, ..., k_r]].
 
 The number of such lists is the number of connected components of the surface.
 
-The number $$g$$ is the genus of the connected component, and $$r$$ is the number of its punctures.
+The number g is the genus of the connected component, and r is the number of its punctures.
 
 Intersecting the surface with the stable lamination of the underlying flow gives a lamination in the surface whose complementary regions are once-punctured ideal polygons. Each number k_i is the number of sides of one such ideal polygon (or the number of prongs that we would get after capping off each puncture and collapsing the lamination into a (potentially singular) foliation on the obtained closed surface).
 
@@ -140,7 +140,7 @@ The first Betti number of the manifold underlying census[29] is equal to 1, so w
 
 ---
 ### Cone in homology <a id="homology"></a>
-The homology classes of surfaces carried by a veering triangulation forms a cone in $$H_2(M, \partial M; \mathbb{Z})$$. Landry-Minsky-Taylor proved that, when nonempty, this is always a cone on a face of the Thurston norm ball.
+The homology classes of surfaces carried by a veering triangulation forms a cone in H_2(M, \partial M; Z). Landry-Minsky-Taylor proved that, when nonempty, this is always a cone on a face of the Thurston norm ball.
 
 One can find the primitive integral classes generating the extremal rays of the cone (i.e. the rays through the vertices of the face) as follows.
 
@@ -203,7 +203,7 @@ If no veering mutation is possible for a given (V, S) we would see:
 ### Polynomial invariants <a id="polynomials"></a>
 
 Landry-Minsky-Taylor introduced two polynomial invariants of veering triangulation: the _taut polynomial_ and the _veering polynomial_.
-Veering offers two different ways of computing the taut polynomial: taut_polynomial_via_tree and taut_polynomial_via_fox_calculus. The latter is much faster. The outputs should be the same up to the change of basis of $H_1(M;\mathbb{Z})/$torsion.
+Veering offers two different ways of computing the taut polynomial: taut_polynomial_via_tree and taut_polynomial_via_fox_calculus. The latter is much faster. The outputs should be the same up to the change of basis of H_1(M;Z)/torsion.
 
         sage: sig = census[8]
         sage: from veering import taut_polynomial
@@ -250,7 +250,7 @@ Each flow cycle of a veering triangulation V can be represented by a tuple of pa
 ---
 ### Drilling veering triangulations <a id="drilling"></a>
 
-A veering triangulation can be constructed from a pair $(F_t, C)$ where F_t is a transitive pseudo-Anosov flow on a closed 3-manifold, and C is a finite, non-empty collection of closed orbits that contains all singular orbits, and whose preimage to the universal cover intersects every perfect fit rectangle in the orbit space. We call C a _perfect set_ for F_t. 
+A veering triangulation can be constructed from a pair (F_t, C) where F_t is a transitive pseudo-Anosov flow on a closed 3-manifold, and C is a finite, non-empty collection of closed orbits that contains all singular orbits, and whose preimage to the universal cover intersects every perfect fit rectangle in the orbit space. We call C a _perfect set_ for F_t. 
 
 If C is a perfect set for F_t, and c is any closed orbit of F_t that is not already in C, then the union of C and c is another perfect set for F_t. We call the veering triangulation V_c associated to (F_t, C \cup c) a _veering parent_ of the veering triangulation V associated to (F_t, C). The process of getting from V to V_c is called _drilling (veering triangulations)_. It has been implemented in Veering.
 
