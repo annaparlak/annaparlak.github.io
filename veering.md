@@ -283,9 +283,6 @@ The algorithm for drilling relies on finding the preimage of the orbit(s) encode
         Images/DrilledTetrahedra/cPcbbbiht_12_[10-15].pdf
         ['gLLPQccdfeffhggaagb_201022']
 
-
-
-
 ---
 ### From a taut signature to a Regina triangulation, and vice versa <a id="regina"></a>
 
@@ -349,7 +346,7 @@ A. Parlak, [Mutations and faces of the Thurston norm ball dynamically represente
 
 __8. Flow cycles__
 
-M. Landry, Y.N. Minsky, S.J. Taylor [Flows, growth rates, and the veering polyomial](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/flows-growth-rates-and-the-veering-polynomial/B79BE9FBDBE54CDE8C9D8A5285F4E7BF), Sections 2 (definition) and 6 (proof that flow cycles encode orbits of the flow).
+M. Landry, Y.N. Minsky, S.J. Taylor [Flows, growth rates, and the veering polynomial](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/flows-growth-rates-and-the-veering-polynomial/B79BE9FBDBE54CDE8C9D8A5285F4E7BF), Sections 2 (definition) and 6 (proof that flow cycles encode orbits of the flow).
 
 __10. Drilling veering triangulations__
 
