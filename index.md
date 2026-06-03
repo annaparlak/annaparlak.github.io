@@ -4,7 +4,7 @@
 
 I am leading the [Low-Dimensional Topology](https://www.mis.mpg.de/low-dimensional-topology) group at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
 
-I work mainly on problems involving 3-manifolds, veering triangulations, and pseudo-Anosov flows.
+I work mainly on problems involving __3-manifolds__, __veering triangulations__, and __pseudo-Anosov flows__.
 
 You can get in contact with me at <img src="files/MPI_email2.jpg" width="150" alt="email">  
 
@@ -14,9 +14,16 @@ You can get in contact with me at <img src="files/MPI_email2.jpg" width="150" al
 
 &nbsp; 
 
-Before coming to MPI MiS, I was a Krener Assistant Professor at the __University of California, Davis__ (2022 - 2025), Postdoctoral Research Associate at the __University of Oxford__ (2021 - 2022), a PhD student at the __University of Warwick__ (2017 - 2021), and a MSc (2015 - 2017) and BSc (2012 - 2015) student at the __University of Gdańsk__. 
+Before coming to MPI MiS, I was 
+ - Krener Assistant Professor at the University of California, Davis (2022 - 2025)
+ 
+ - Postdoctoral Research Associate at the University of Oxford (2021 - 2022)
+ 
+ - PhD student at the University of Warwick (2017 - 2021)
+ 
+ - MSc (2015 - 2017) and BSc (2012 - 2015) student at the University of Gdańsk 
 
-Besides mathematics, I also have a BSc in biotechnology. 
+Besides mathematics, I also have a BSc in biotechnology (2010 - 2013). 
 
 You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Apr2026_AmE.pdf)
 
