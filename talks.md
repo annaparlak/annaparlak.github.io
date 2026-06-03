@@ -3,6 +3,8 @@ title: Talks
 ---
 
 ## Talks
+* [Nonlinear Algebra Seminar](https://www.mis.mpg.de/de/events/event/pseudo-anosov-flows-via-veering-triangulations-1), Max Planck Institute for Mathematics in the Sciences, June 2026.
+
 * [Recent Progress in Topological and Geometric Structures in Low Dimensions](https://www.slmath.org/workshops/1141), Simons Laufer Mathematical Sciences Institute, March 2026. <!--[(RECORDING)](https://player.vimeo.com/video/1176390733)-->
   
 * [Spring 2026 Pathways Workshop](https://www.slmath.org/workshops/1124), Simons Laufer Mathematical Sciences Institute, January 2026. [(RECORDING)](https://player.vimeo.com/video/1157754911)
