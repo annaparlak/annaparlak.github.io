@@ -6,7 +6,19 @@ I am leading the [Low-Dimensional Topology](https://www.mis.mpg.de/low-dimension
 
 I work mainly on problems involving __3-manifolds__, __veering triangulations__, and __pseudo-Anosov flows__.
 
-You can get in contact with me at <img src="files/MPI_email2.jpg" width="150" alt="email">  
+&nbsp; 
+
+<p align="center">✦ ✦ ✦</p>
+
+&nbsp; 
+
+You can 
+
+- get in contact with me at <img src="files/MPI_email2.jpg" width="150" alt="email">
+
+- download my academic CV here: [Parlak/CV](files/Parlak_CV_Apr2026_AmE.pdf)
+
+<!--
 
 &nbsp; 
 
@@ -25,7 +37,7 @@ Before coming to MPI MiS, I was
 
 Besides mathematics, I also have a BSc in biotechnology (2010 - 2013). 
 
-You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Apr2026_AmE.pdf)
+You can download my academic CV here: [Parlak/CV](files/Parlak_CV_Apr2026_AmE.pdf)-->
 
 
 <!--
