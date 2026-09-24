@@ -1,6 +1,6 @@
 ## Anna Parlak
 
-<img align="right" style="width: 20vw; margin: 0px 20px" src="files/IMG_1078.jpeg">
+<img align="right" style="width: 20vw; margin: 0px 20px" src="files/IMG_7397-cropped.jpeg">
 
 I am leading the [Low-Dimensional Topology](https://www.mis.mpg.de/low-dimensional-topology) group at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
 
