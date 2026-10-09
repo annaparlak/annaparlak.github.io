@@ -4,6 +4,8 @@
 
 I am leading the [Low-Dimensional Topology](https://www.mis.mpg.de/low-dimensional-topology) group at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. 
 
+<p align="center">✦ ✦ ✦</p>
+
 My main objects of interest are __pseudo-Anosov flows__ on closed orientable __three-manifolds__, as well as flows obtained from them by drilling out finitely many closed orbits. 
 
 I study these flows mostly using combinatorial structures called __veering triangulations__. Every pseudo-Anosov flow can be encoded by infinitely many veering triangulations, and conversely, every veering triangulation encodes infinitely many pseudo-Anosov flows. The connection between veering triangulations and pseudo-Anosov flows passes through certain bi-foliated planes called __loom spaces__.
@@ -20,7 +22,7 @@ You can
 
 - get in contact with me at <img src="files/MPI_email2.jpg" width="150" alt="email">
 
-- download my academic CV here: [Parlak/CV](files/Parlak_CV_Apr2026_AmE.pdf)
+- download my academic CV here: [Parlak/CV](files/Parlak_CV_Oct2026_AmE.pdf)
 
 <!--
 
