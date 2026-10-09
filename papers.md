@@ -8,29 +8,28 @@ title: Papers
 1. _Drilling veering triangulations with applications to pseudo-Anosov flows_ (with [Henry Segerman](https://www.segerman.org/))
 
    preprint, 76 pages + appendix, [arXiv:2610.12302](https://arxiv.org/abs/2610.12302)
-   
-   
-2._Arbitrarily large veering triangulations with a vanishing taut polynomial_
+
+2. _Arbitrarily large veering triangulations with a vanishing taut polynomial_
 
    **Groups, Geometry, and Dynamics**, [Groups Geom. Dyn. (2025)](https://ems.press/journals/ggd/articles/14298509), [arXiv:2309.01752](https://arxiv.org/abs/2309.01752)
-
-4. _Mutations and faces of the Thurston norm ball dynamically represented by multiple distinct flows_
+   
+3. _Mutations and faces of the Thurston norm ball dynamically represented by multiple distinct flows_
 
     **Geometry & Topology**, [Geom. Topol. 29:4 2105–2173 (2025)](https://msp.org/gt/2025/29-4/p07.xhtml), [arXiv:2303.17665](https://arxiv.org/abs/2303.17665)
 
-5. _The taut polynomial and the Alexander polynomial_ 
+4. _The taut polynomial and the Alexander polynomial_ 
  
     **Journal of Topology**, [ J. Topol., 16: 720-756 (2023)](https://doi.org/10.1112/topo.12302), [arXiv:2101.12162](https://arxiv.org/abs/2101.12162v3)
 
-6. _Computation of the taut, the veering and the Teichmüller polynomials_
+5. _Computation of the taut, the veering and the Teichmüller polynomials_
 
     **Experimental Mathematics**, [Exp Math, 33(1): 1–26 (2024)](https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1985656), [arXiv:2009.13558](https://arxiv.org/abs/2009.13558v2)
 
-7. _Roots of Dehn twists on nonorientable surfaces_ (with [Michał Stukow](https://mat.ug.edu.pl/~trojkat/me.php))
+6. _Roots of Dehn twists on nonorientable surfaces_ (with [Michał Stukow](https://mat.ug.edu.pl/~trojkat/me.php))
 
     **Journal of Knot Theory and Its Ramifications**, [J Knot Theor Ramif,  Vol. 28, No. 12, 1950077 (2019)](https://www.worldscientific.com/doi/10.1142/S0218216519500779), [arXiv:1701.00531](https://arxiv.org/abs/1701.00531v2)
 
-8. _Roots of crosscap slides and crosscap transpositions_ (with [Michał Stukow](https://mat.ug.edu.pl/~trojkat/me.php))
+7. _Roots of crosscap slides and crosscap transpositions_ (with [Michał Stukow](https://mat.ug.edu.pl/~trojkat/me.php))
  
     **Periodica Mathematica Hungarica**, [Period Math Hung (2017) Vol. 75, Issue 2, pp. 413 – 419](https://link.springer.com/article/10.1007/s10998-017-0210-3), [arXiv:1601.06096](https://arxiv.org/abs/1601.06096v2)
     
